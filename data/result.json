@@ -1,0 +1,8536 @@
+{
+ "name": "チョウボ",
+ "type": "private_group",
+ "id": 4558238035,
+ "messages": [
+  {
+   "id": 18998,
+   "type": "service",
+   "date": "2024-10-16T17:52:48",
+   "date_unixtime": "1729097568",
+   "actor": "RoundFace Dublin",
+   "actor_id": "user1321217499",
+   "action": "create_group",
+   "title": "记账",
+   "members": [
+    "RoundFace Dublin",
+    "Qx Zero",
+    "润东 黄"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 18999,
+   "type": "service",
+   "date": "2024-10-16T17:52:49",
+   "date_unixtime": "1729097569",
+   "actor": "RoundFace Dublin",
+   "actor_id": "user1321217499",
+   "action": "edit_group_photo",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 640,
+   "height": 640,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 19000,
+   "type": "service",
+   "date": "2024-10-16T17:56:27",
+   "date_unixtime": "1729097787",
+   "actor": "RoundFace Dublin",
+   "actor_id": "user1321217499",
+   "action": "edit_group_title",
+   "title": "チョウボ",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 19006,
+   "type": "service",
+   "date": "2024-10-16T21:01:44",
+   "date_unixtime": "1729108904",
+   "actor": "RoundFace Dublin",
+   "actor_id": "user1321217499",
+   "action": "invite_members",
+   "members": [
+    "Cointry"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 19007,
+   "type": "message",
+   "date": "2024-10-16T21:01:45",
+   "date_unixtime": "1729108905",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    "Hey! I'm Cointry Bot! 👋\n\nSend me your expenses in the following format ",
+    {
+     "type": "bold",
+     "text": "[how much] [spent on what]"
+    },
+    ", and I will record them. For example:\n\n",
+    {
+     "type": "blockquote",
+     "text": "2500 groceries",
+     "collapsed": false
+    },
+    "\n\nYou can also add a leading ",
+    {
+     "type": "bold",
+     "text": "+"
+    },
+    " to record income:\n\n",
+    {
+     "type": "blockquote",
+     "text": "+1000 bonus",
+     "collapsed": false
+    },
+    "\n\nTo get your expenses and income you can send me ",
+    {
+     "type": "code",
+     "text": "/stats"
+    },
+    ".\n\nYou can also delete the last record by sending me ",
+    {
+     "type": "code",
+     "text": "/delete"
+    },
+    ".\n\nIn order to get the list of all records send me ",
+    {
+     "type": "code",
+     "text": "/list"
+    },
+    " or open a web app ",
+    {
+     "type": "code",
+     "text": "/open"
+    },
+    ".\n\nThe full list of commands is available after sending ",
+    {
+     "type": "code",
+     "text": "/help"
+    },
+    ".\n\n",
+    {
+     "type": "text_link",
+     "text": "Video",
+     "href": "https://cointry.io/cointry_demo_en_828x1792.mp4"
+    },
+    ":"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Hey! I'm Cointry Bot! 👋\n\nSend me your expenses in the following format "
+    },
+    {
+     "type": "bold",
+     "text": "[how much] [spent on what]"
+    },
+    {
+     "type": "plain",
+     "text": ", and I will record them. For example:\n\n"
+    },
+    {
+     "type": "blockquote",
+     "text": "2500 groceries",
+     "collapsed": false
+    },
+    {
+     "type": "plain",
+     "text": "\n\nYou can also add a leading "
+    },
+    {
+     "type": "bold",
+     "text": "+"
+    },
+    {
+     "type": "plain",
+     "text": " to record income:\n\n"
+    },
+    {
+     "type": "blockquote",
+     "text": "+1000 bonus",
+     "collapsed": false
+    },
+    {
+     "type": "plain",
+     "text": "\n\nTo get your expenses and income you can send me "
+    },
+    {
+     "type": "code",
+     "text": "/stats"
+    },
+    {
+     "type": "plain",
+     "text": ".\n\nYou can also delete the last record by sending me "
+    },
+    {
+     "type": "code",
+     "text": "/delete"
+    },
+    {
+     "type": "plain",
+     "text": ".\n\nIn order to get the list of all records send me "
+    },
+    {
+     "type": "code",
+     "text": "/list"
+    },
+    {
+     "type": "plain",
+     "text": " or open a web app "
+    },
+    {
+     "type": "code",
+     "text": "/open"
+    },
+    {
+     "type": "plain",
+     "text": ".\n\nThe full list of commands is available after sending "
+    },
+    {
+     "type": "code",
+     "text": "/help"
+    },
+    {
+     "type": "plain",
+     "text": ".\n\n"
+    },
+    {
+     "type": "text_link",
+     "text": "Video",
+     "href": "https://cointry.io/cointry_demo_en_828x1792.mp4"
+    },
+    {
+     "type": "plain",
+     "text": ":"
+    }
+   ]
+  },
+  {
+   "id": 19070,
+   "type": "message",
+   "date": "2024-10-18T16:43:36",
+   "date_unixtime": "1729266216",
+   "from": "RoundFace Dublin",
+   "from_id": "user1321217499",
+   "text": "Huyi 117eur 我收到了",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Huyi 117eur 我收到了"
+    }
+   ]
+  },
+  {
+   "id": 19071,
+   "type": "message",
+   "date": "2024-10-18T16:43:36",
+   "date_unixtime": "1729266216",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    "I didn't get it 🤨 Check all the commands I understand by sending me ",
+    {
+     "type": "bot_command",
+     "text": "/help"
+    },
+    "."
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I didn't get it 🤨 Check all the commands I understand by sending me "
+    },
+    {
+     "type": "bot_command",
+     "text": "/help"
+    },
+    {
+     "type": "plain",
+     "text": "."
+    }
+   ]
+  },
+  {
+   "id": 19072,
+   "type": "message",
+   "date": "2024-10-18T16:43:47",
+   "date_unixtime": "1729266227",
+   "from": "RoundFace Dublin",
+   "from_id": "user1321217499",
+   "text": "这sb机器人 我再开一个群组聊天",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "这sb机器人 我再开一个群组聊天"
+    }
+   ]
+  },
+  {
+   "id": 19073,
+   "type": "message",
+   "date": "2024-10-18T16:43:48",
+   "date_unixtime": "1729266228",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    "I didn't get it 🤨 Check all the commands I understand by sending me ",
+    {
+     "type": "bot_command",
+     "text": "/help"
+    },
+    "."
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I didn't get it 🤨 Check all the commands I understand by sending me "
+    },
+    {
+     "type": "bot_command",
+     "text": "/help"
+    },
+    {
+     "type": "plain",
+     "text": "."
+    }
+   ]
+  },
+  {
+   "id": 19149,
+   "type": "message",
+   "date": "2024-10-24T18:51:29",
+   "date_unixtime": "1729792289",
+   "from": "润东 黄",
+   "from_id": "user6728763412",
+   "text": "1",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "1"
+    }
+   ]
+  },
+  {
+   "id": 19150,
+   "type": "message",
+   "date": "2024-10-24T18:51:29",
+   "date_unixtime": "1729792289",
+   "from": "Qx Zero",
+   "from_id": "user5688807590",
+   "text": "1",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "1"
+    }
+   ]
+  },
+  {
+   "id": 19151,
+   "type": "message",
+   "date": "2024-10-24T18:51:29",
+   "date_unixtime": "1729792289",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ],
+   "inline_bot_buttons": [
+    [
+     {
+      "type": "callback",
+      "text": "🍔 Outside food",
+      "dataBase64": "MTA4ODg5",
+      "data": ""
+     }
+    ],
+    [
+     {
+      "type": "callback",
+      "text": "🥬 Groceries",
+      "dataBase64": "MTA4ODkw",
+      "data": ""
+     }
+    ],
+    [
+     {
+      "type": "callback",
+      "text": "🪜 Household",
+      "dataBase64": "MTA4ODkx",
+      "data": ""
+     }
+    ],
+    [
+     {
+      "type": "callback",
+      "text": "👠 Clothes and shoes",
+      "dataBase64": "MTA4ODky",
+      "data": ""
+     }
+    ],
+    [
+     {
+      "type": "callback",
+      "text": "💊 Health and beauty",
+      "dataBase64": "MTA4ODkz",
+      "data": ""
+     }
+    ],
+    [
+     {
+      "type": "callback",
+      "text": "🚇 Commuting",
+      "dataBase64": "MTA4ODk0",
+      "data": ""
+     }
+    ],
+    [
+     {
+      "type": "callback",
+      "text": "📱 Mobile and Internet",
+      "dataBase64": "MTA4ODk1",
+      "data": ""
+     }
+    ],
+    [
+     {
+      "type": "callback",
+      "text": "🏠 Housing and utilities",
+      "dataBase64": "MTA4ODk2",
+      "data": ""
+     }
+    ],
+    [
+     {
+      "type": "callback",
+      "text": "🎮 Entertainment",
+      "dataBase64": "MTA4ODk3",
+      "data": ""
+     }
+    ],
+    [
+     {
+      "type": "callback",
+      "text": "Other",
+      "dataBase64": "b3RoZXI",
+      "data": ""
+     }
+    ],
+    [
+     {
+      "type": "callback",
+      "text": "Cancel",
+      "dataBase64": "Y2FuY2Vs",
+      "data": ""
+     }
+    ]
+   ]
+  },
+  {
+   "id": 19152,
+   "type": "message",
+   "date": "2024-10-24T18:51:29",
+   "date_unixtime": "1729792289",
+   "edited": "2024-10-24T18:51:35",
+   "edited_unixtime": "1729792295",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 19153,
+   "type": "message",
+   "date": "2024-10-24T18:51:35",
+   "date_unixtime": "1729792295",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Current operation has been cancelled.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Current operation has been cancelled."
+    }
+   ]
+  },
+  {
+   "id": 19159,
+   "type": "message",
+   "date": "2024-10-25T15:59:23",
+   "date_unixtime": "1729868363",
+   "from": "RoundFace Dublin",
+   "from_id": "user1321217499",
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/add_category@cointrybot"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bot_command",
+     "text": "/add_category@cointrybot"
+    }
+   ]
+  },
+  {
+   "id": 19160,
+   "type": "message",
+   "date": "2024-10-25T15:59:24",
+   "date_unixtime": "1729868364",
+   "edited": "2024-10-25T15:59:26",
+   "edited_unixtime": "1729868366",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Is this category for spendings or income?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Is this category for spendings or income?"
+    }
+   ]
+  },
+  {
+   "id": 19161,
+   "type": "message",
+   "date": "2024-10-25T15:59:26",
+   "date_unixtime": "1729868366",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "How do you want to call this new category?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "How do you want to call this new category?"
+    }
+   ]
+  },
+  {
+   "id": 19162,
+   "type": "message",
+   "date": "2024-10-25T15:59:30",
+   "date_unixtime": "1729868370",
+   "from": "RoundFace Dublin",
+   "from_id": "user1321217499",
+   "text": "TEMU",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "TEMU"
+    }
+   ]
+  },
+  {
+   "id": 19163,
+   "type": "message",
+   "date": "2024-10-25T15:59:31",
+   "date_unixtime": "1729868371",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    "A new expense category ",
+    {
+     "type": "bold",
+     "text": "TEMU"
+    },
+    " has been created!"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "A new expense category "
+    },
+    {
+     "type": "bold",
+     "text": "TEMU"
+    },
+    {
+     "type": "plain",
+     "text": " has been created!"
+    }
+   ]
+  },
+  {
+   "id": 19164,
+   "type": "message",
+   "date": "2024-10-25T15:59:35",
+   "date_unixtime": "1729868375",
+   "from": "RoundFace Dublin",
+   "from_id": "user1321217499",
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/add_category@cointrybot"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bot_command",
+     "text": "/add_category@cointrybot"
+    }
+   ]
+  },
+  {
+   "id": 19165,
+   "type": "message",
+   "date": "2024-10-25T15:59:35",
+   "date_unixtime": "1729868375",
+   "edited": "2024-10-25T15:59:37",
+   "edited_unixtime": "1729868377",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Is this category for spendings or income?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Is this category for spendings or income?"
+    }
+   ]
+  },
+  {
+   "id": 19166,
+   "type": "message",
+   "date": "2024-10-25T15:59:37",
+   "date_unixtime": "1729868377",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "How do you want to call this new category?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "How do you want to call this new category?"
+    }
+   ]
+  },
+  {
+   "id": 19167,
+   "type": "message",
+   "date": "2024-10-25T15:59:46",
+   "date_unixtime": "1729868386",
+   "from": "RoundFace Dublin",
+   "from_id": "user1321217499",
+   "text": "🥩肉铺",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "🥩肉铺"
+    }
+   ]
+  },
+  {
+   "id": 19168,
+   "type": "message",
+   "date": "2024-10-25T15:59:46",
+   "date_unixtime": "1729868386",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    "A new expense category ",
+    {
+     "type": "bold",
+     "text": "🥩肉铺"
+    },
+    " has been created!"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "A new expense category "
+    },
+    {
+     "type": "bold",
+     "text": "🥩肉铺"
+    },
+    {
+     "type": "plain",
+     "text": " has been created!"
+    }
+   ]
+  },
+  {
+   "id": 19169,
+   "type": "message",
+   "date": "2024-10-25T15:59:49",
+   "date_unixtime": "1729868389",
+   "from": "RoundFace Dublin",
+   "from_id": "user1321217499",
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/add_category@cointrybot"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bot_command",
+     "text": "/add_category@cointrybot"
+    }
+   ]
+  },
+  {
+   "id": 19170,
+   "type": "message",
+   "date": "2024-10-25T15:59:50",
+   "date_unixtime": "1729868390",
+   "edited": "2024-10-25T15:59:52",
+   "edited_unixtime": "1729868392",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Is this category for spendings or income?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Is this category for spendings or income?"
+    }
+   ]
+  },
+  {
+   "id": 19171,
+   "type": "message",
+   "date": "2024-10-25T15:59:52",
+   "date_unixtime": "1729868392",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "How do you want to call this new category?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "How do you want to call this new category?"
+    }
+   ]
+  },
+  {
+   "id": 19172,
+   "type": "message",
+   "date": "2024-10-25T16:00:12",
+   "date_unixtime": "1729868412",
+   "from": "RoundFace Dublin",
+   "from_id": "user1321217499",
+   "text": "超市",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "超市"
+    }
+   ]
+  },
+  {
+   "id": 19173,
+   "type": "message",
+   "date": "2024-10-25T16:00:13",
+   "date_unixtime": "1729868413",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    "A new expense category ",
+    {
+     "type": "bold",
+     "text": "超市"
+    },
+    " has been created!"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "A new expense category "
+    },
+    {
+     "type": "bold",
+     "text": "超市"
+    },
+    {
+     "type": "plain",
+     "text": " has been created!"
+    }
+   ]
+  },
+  {
+   "id": 19174,
+   "type": "message",
+   "date": "2024-10-25T16:00:24",
+   "date_unixtime": "1729868424",
+   "edited": "2024-10-25T16:00:40",
+   "edited_unixtime": "1729868440",
+   "from": "RoundFace Dublin",
+   "from_id": "user1321217499",
+   "text": "34.66 TEMU 这是锅",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "34.66 TEMU 这是锅"
+    }
+   ]
+  },
+  {
+   "id": 19175,
+   "type": "message",
+   "date": "2024-10-25T16:00:25",
+   "date_unixtime": "1729868425",
+   "edited": "2024-10-25T16:00:28",
+   "edited_unixtime": "1729868428",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category does TEMU belong to?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category does TEMU belong to?"
+    }
+   ]
+  },
+  {
+   "id": 19176,
+   "type": "message",
+   "date": "2024-10-25T16:00:28",
+   "date_unixtime": "1729868428",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "34.66 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "TEMU"
+    },
+    "\n25 October 2024, Friday\n\n",
+    {
+     "type": "italic",
+     "text": "TEMU"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "34.66 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "TEMU"
+    },
+    {
+     "type": "plain",
+     "text": "\n25 October 2024, Friday\n\n"
+    },
+    {
+     "type": "italic",
+     "text": "TEMU"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 19177,
+   "type": "message",
+   "date": "2024-10-25T16:00:40",
+   "date_unixtime": "1729868440",
+   "edited": "2024-10-25T16:00:42",
+   "edited_unixtime": "1729868442",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category does TEMU 这是锅 belong to?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category does TEMU 这是锅 belong to?"
+    }
+   ]
+  },
+  {
+   "id": 19178,
+   "type": "message",
+   "date": "2024-10-25T16:00:42",
+   "date_unixtime": "1729868442",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Current operation has been cancelled.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Current operation has been cancelled."
+    }
+   ]
+  },
+  {
+   "id": 19179,
+   "type": "message",
+   "date": "2024-10-25T16:01:56",
+   "date_unixtime": "1729868516",
+   "from": "RoundFace Dublin",
+   "from_id": "user1321217499",
+   "text": "21.83 TEMU",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "21.83 TEMU"
+    }
+   ]
+  },
+  {
+   "id": 19180,
+   "type": "message",
+   "date": "2024-10-25T16:01:57",
+   "date_unixtime": "1729868517",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "21.83 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "TEMU"
+    },
+    "\n25 October 2024, Friday\n\n",
+    {
+     "type": "italic",
+     "text": "TEMU"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "21.83 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "TEMU"
+    },
+    {
+     "type": "plain",
+     "text": "\n25 October 2024, Friday\n\n"
+    },
+    {
+     "type": "italic",
+     "text": "TEMU"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 19181,
+   "type": "message",
+   "date": "2024-10-25T16:02:15",
+   "date_unixtime": "1729868535",
+   "from": "RoundFace Dublin",
+   "from_id": "user1321217499",
+   "text": "11.23",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "11.23"
+    }
+   ]
+  },
+  {
+   "id": 19182,
+   "type": "message",
+   "date": "2024-10-25T16:02:16",
+   "date_unixtime": "1729868536",
+   "edited": "2024-10-25T16:02:19",
+   "edited_unixtime": "1729868539",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 19183,
+   "type": "message",
+   "date": "2024-10-25T16:02:19",
+   "date_unixtime": "1729868539",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "11.23 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "🥬 Groceries"
+    },
+    "\n25 October 2024, Friday"
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "11.23 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "🥬 Groceries"
+    },
+    {
+     "type": "plain",
+     "text": "\n25 October 2024, Friday"
+    }
+   ]
+  },
+  {
+   "id": 19184,
+   "type": "message",
+   "date": "2024-10-25T16:02:27",
+   "date_unixtime": "1729868547",
+   "from": "RoundFace Dublin",
+   "from_id": "user1321217499",
+   "text": "75",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "75"
+    }
+   ]
+  },
+  {
+   "id": 19185,
+   "type": "message",
+   "date": "2024-10-25T16:02:28",
+   "date_unixtime": "1729868548",
+   "edited": "2024-10-25T16:02:29",
+   "edited_unixtime": "1729868549",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 19186,
+   "type": "message",
+   "date": "2024-10-25T16:02:29",
+   "date_unixtime": "1729868549",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "75 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "🥩肉铺"
+    },
+    "\n25 October 2024, Friday"
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "75 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "🥩肉铺"
+    },
+    {
+     "type": "plain",
+     "text": "\n25 October 2024, Friday"
+    }
+   ]
+  },
+  {
+   "id": 19195,
+   "type": "message",
+   "date": "2024-10-26T21:00:06",
+   "date_unixtime": "1729972806",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    "📝 It seems you haven't recorded your expenses today. Don't forget to do it 😉\n\nYou can disable daily reminders or change their time in the settings (",
+    {
+     "type": "bot_command",
+     "text": "/settings"
+    },
+    ")."
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "📝 It seems you haven't recorded your expenses today. Don't forget to do it 😉\n\nYou can disable daily reminders or change their time in the settings ("
+    },
+    {
+     "type": "bot_command",
+     "text": "/settings"
+    },
+    {
+     "type": "plain",
+     "text": ")."
+    }
+   ]
+  },
+  {
+   "id": 19196,
+   "type": "message",
+   "date": "2024-10-26T21:00:17",
+   "date_unixtime": "1729972817",
+   "from": "RoundFace Dublin",
+   "from_id": "user1321217499",
+   "reply_to_message_id": 19195,
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/settings"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bot_command",
+     "text": "/settings"
+    }
+   ]
+  },
+  {
+   "id": 19197,
+   "type": "message",
+   "date": "2024-10-26T21:00:17",
+   "date_unixtime": "1729972817",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Open settings by pressing the button below.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Open settings by pressing the button below."
+    }
+   ],
+   "inline_bot_buttons": [
+    [
+     {
+      "type": "url",
+      "text": "⚙️ Settings",
+      "data": "https://t.me/cointrybot/app?startapp=eyJpdiI6IjRFcTIzNTI0d2VhYm0weUZ3SlBtaHc9PSIsInZhbHVlIjoiTkZuRFRRVUpQazlVbnRnZE92SXJKbzF1aXBIOVJja0dJcU1aVCs3TUJkVGpqc0VFWHFIRzlxSEQrZzlXNW50dCIsIm1hYyI6IjIyZDhmMmMzNWMzYjcxYzM2M2YzNmNmMzQ5OGI5MTk5M2I5ZWU4YTVmMDRkZDZmYjljZmNjYjRlNDdiOGE1MTIiLCJ0YWciOiIifQ=="
+     }
+    ]
+   ]
+  },
+  {
+   "id": 19214,
+   "type": "message",
+   "date": "2024-10-30T16:51:21",
+   "date_unixtime": "1730307081",
+   "from": "RoundFace Dublin",
+   "from_id": "user1321217499",
+   "text": "11.7",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "11.7"
+    }
+   ]
+  },
+  {
+   "id": 19215,
+   "type": "message",
+   "date": "2024-10-30T16:51:21",
+   "date_unixtime": "1730307081",
+   "edited": "2024-10-30T16:51:24",
+   "edited_unixtime": "1730307084",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 19216,
+   "type": "message",
+   "date": "2024-10-30T16:51:24",
+   "date_unixtime": "1730307084",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "11.7 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "超市"
+    },
+    "\n30 October 2024, Wednesday"
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "11.7 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "超市"
+    },
+    {
+     "type": "plain",
+     "text": "\n30 October 2024, Wednesday"
+    }
+   ]
+  },
+  {
+   "id": 19242,
+   "type": "message",
+   "date": "2024-11-01T17:51:00",
+   "date_unixtime": "1730483460",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "📅 Monthly report (October)"
+    },
+    "\n\n👎 In the last month, you spent ",
+    {
+     "type": "bold",
+     "text": "154.42 EUR"
+    },
+    ", which is ",
+    {
+     "type": "bold",
+     "text": "154.42 EUR"
+    },
+    " (100%) more compared to the previous month.\n\nYou didn't record any income.\n\n👎 Total balance is ",
+    {
+     "type": "bold",
+     "text": "-154.42 EUR"
+    },
+    ".\n\nOn average, you spent ",
+    {
+     "type": "bold",
+     "text": "4.98 EUR"
+    },
+    " a day.\nOn average, you earned ",
+    {
+     "type": "bold",
+     "text": "0 EUR"
+    },
+    " a day.\n\n",
+    {
+     "type": "italic",
+     "text": "More detailed statistics split by categories is available after sending "
+    },
+    {
+     "type": "bot_command",
+     "text": "/stats"
+    },
+    {
+     "type": "italic",
+     "text": "."
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "📅 Monthly report (October)"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n👎 In the last month, you spent "
+    },
+    {
+     "type": "bold",
+     "text": "154.42 EUR"
+    },
+    {
+     "type": "plain",
+     "text": ", which is "
+    },
+    {
+     "type": "bold",
+     "text": "154.42 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " (100%) more compared to the previous month.\n\nYou didn't record any income.\n\n👎 Total balance is "
+    },
+    {
+     "type": "bold",
+     "text": "-154.42 EUR"
+    },
+    {
+     "type": "plain",
+     "text": ".\n\nOn average, you spent "
+    },
+    {
+     "type": "bold",
+     "text": "4.98 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " a day.\nOn average, you earned "
+    },
+    {
+     "type": "bold",
+     "text": "0 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " a day.\n\n"
+    },
+    {
+     "type": "italic",
+     "text": "More detailed statistics split by categories is available after sending "
+    },
+    {
+     "type": "bot_command",
+     "text": "/stats"
+    },
+    {
+     "type": "italic",
+     "text": "."
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 19247,
+   "type": "message",
+   "date": "2024-11-04T18:04:24",
+   "date_unixtime": "1730743464",
+   "from": "RoundFace Dublin",
+   "from_id": "user1321217499",
+   "text": "26.5",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "26.5"
+    }
+   ]
+  },
+  {
+   "id": 19248,
+   "type": "message",
+   "date": "2024-11-04T18:04:25",
+   "date_unixtime": "1730743465",
+   "edited": "2024-11-04T18:04:29",
+   "edited_unixtime": "1730743469",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 19249,
+   "type": "message",
+   "date": "2024-11-04T18:04:29",
+   "date_unixtime": "1730743469",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "26.5 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "🥩肉铺"
+    },
+    "\n4 November 2024, Monday"
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "26.5 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "🥩肉铺"
+    },
+    {
+     "type": "plain",
+     "text": "\n4 November 2024, Monday"
+    }
+   ]
+  },
+  {
+   "id": 19578,
+   "type": "message",
+   "date": "2024-11-11T19:09:01",
+   "date_unixtime": "1731352141",
+   "from": "Qx Zero",
+   "from_id": "user5688807590",
+   "text": "250.59",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "250.59"
+    }
+   ]
+  },
+  {
+   "id": 19579,
+   "type": "message",
+   "date": "2024-11-11T19:09:02",
+   "date_unixtime": "1731352142",
+   "edited": "2024-11-11T19:09:05",
+   "edited_unixtime": "1731352145",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 19580,
+   "type": "message",
+   "date": "2024-11-11T19:09:05",
+   "date_unixtime": "1731352145",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Qx"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "250.59 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "超市"
+    },
+    "\n11 November 2024, Monday"
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Qx"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "250.59 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "超市"
+    },
+    {
+     "type": "plain",
+     "text": "\n11 November 2024, Monday"
+    }
+   ]
+  },
+  {
+   "id": 19581,
+   "type": "message",
+   "date": "2024-11-11T19:09:26",
+   "date_unixtime": "1731352166",
+   "from": "Qx Zero",
+   "from_id": "user5688807590",
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/list"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bot_command",
+     "text": "/list"
+    }
+   ]
+  },
+  {
+   "id": 19582,
+   "type": "message",
+   "date": "2024-11-11T19:09:27",
+   "date_unixtime": "1731352167",
+   "edited": "2024-11-11T19:09:31",
+   "edited_unixtime": "1731352171",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Choose a period",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Choose a period"
+    }
+   ]
+  },
+  {
+   "id": 19583,
+   "type": "message",
+   "date": "2024-11-11T19:09:31",
+   "date_unixtime": "1731352171",
+   "edited": "2024-11-11T19:09:37",
+   "edited_unixtime": "1731352177",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Choose how to display records",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Choose how to display records"
+    }
+   ]
+  },
+  {
+   "id": 19584,
+   "type": "message",
+   "date": "2024-11-11T19:09:37",
+   "date_unixtime": "1731352177",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    "Expenses and income for current month (November)\n\n",
+    {
+     "type": "bold",
+     "text": "超市"
+    },
+    " ",
+    {
+     "type": "code",
+     "text": "(-250.59 EUR)"
+    },
+    "\n",
+    {
+     "type": "code",
+     "text": "[11 Nov]"
+    },
+    " ➖ ",
+    {
+     "type": "code",
+     "text": "250.59 EUR"
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "🥩肉铺"
+    },
+    " ",
+    {
+     "type": "code",
+     "text": "(-26.5 EUR)"
+    },
+    "\n",
+    {
+     "type": "code",
+     "text": "[4 Nov]"
+    },
+    " ➖ ",
+    {
+     "type": "code",
+     "text": "26.5 EUR"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Expenses and income for current month (November)\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "超市"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "code",
+     "text": "(-250.59 EUR)"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "code",
+     "text": "[11 Nov]"
+    },
+    {
+     "type": "plain",
+     "text": " ➖ "
+    },
+    {
+     "type": "code",
+     "text": "250.59 EUR"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "🥩肉铺"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "code",
+     "text": "(-26.5 EUR)"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "code",
+     "text": "[4 Nov]"
+    },
+    {
+     "type": "plain",
+     "text": " ➖ "
+    },
+    {
+     "type": "code",
+     "text": "26.5 EUR"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 19585,
+   "type": "message",
+   "date": "2024-11-11T19:10:06",
+   "date_unixtime": "1731352206",
+   "from": "Qx Zero",
+   "from_id": "user5688807590",
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/stats"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bot_command",
+     "text": "/stats"
+    }
+   ]
+  },
+  {
+   "id": 19586,
+   "type": "message",
+   "date": "2024-11-11T19:10:06",
+   "date_unixtime": "1731352206",
+   "edited": "2024-11-11T19:10:15",
+   "edited_unixtime": "1731352215",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Choose a period",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Choose a period"
+    }
+   ]
+  },
+  {
+   "id": 19587,
+   "type": "message",
+   "date": "2024-11-11T19:10:15",
+   "date_unixtime": "1731352215",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    "Statistics for last month (October) in EUR\n\n",
+    {
+     "type": "bold",
+     "text": "➖ Expenses"
+    },
+    "\n\n",
+    {
+     "type": "code",
+     "text": "75 (49%)"
+    },
+    " — 🥩肉铺\n",
+    {
+     "type": "code",
+     "text": "56.49 (37%)"
+    },
+    " — TEMU\n",
+    {
+     "type": "code",
+     "text": "11.7 (8%)"
+    },
+    " — 超市\n",
+    {
+     "type": "code",
+     "text": "11.23 (7%)"
+    },
+    " — 🥬 Groceries\n\n👤 椭脸 — ",
+    {
+     "type": "code",
+     "text": "154.42 (100%)"
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "➕ Income"
+    },
+    "\n\nNo income for last month (October).\n\nTotal expenses: ",
+    {
+     "type": "bold",
+     "text": "154.42 EUR"
+    },
+    "\nTotal income: ",
+    {
+     "type": "bold",
+     "text": "0 EUR"
+    },
+    "\nTotal: ",
+    {
+     "type": "bold",
+     "text": "-154.42 EUR"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Statistics for last month (October) in EUR\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "➖ Expenses"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "code",
+     "text": "75 (49%)"
+    },
+    {
+     "type": "plain",
+     "text": " — 🥩肉铺\n"
+    },
+    {
+     "type": "code",
+     "text": "56.49 (37%)"
+    },
+    {
+     "type": "plain",
+     "text": " — TEMU\n"
+    },
+    {
+     "type": "code",
+     "text": "11.7 (8%)"
+    },
+    {
+     "type": "plain",
+     "text": " — 超市\n"
+    },
+    {
+     "type": "code",
+     "text": "11.23 (7%)"
+    },
+    {
+     "type": "plain",
+     "text": " — 🥬 Groceries\n\n👤 椭脸 — "
+    },
+    {
+     "type": "code",
+     "text": "154.42 (100%)"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "➕ Income"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nNo income for last month (October).\n\nTotal expenses: "
+    },
+    {
+     "type": "bold",
+     "text": "154.42 EUR"
+    },
+    {
+     "type": "plain",
+     "text": "\nTotal income: "
+    },
+    {
+     "type": "bold",
+     "text": "0 EUR"
+    },
+    {
+     "type": "plain",
+     "text": "\nTotal: "
+    },
+    {
+     "type": "bold",
+     "text": "-154.42 EUR"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 19588,
+   "type": "message",
+   "date": "2024-11-11T19:10:32",
+   "date_unixtime": "1731352232",
+   "from": "Qx Zero",
+   "from_id": "user5688807590",
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/stats"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bot_command",
+     "text": "/stats"
+    }
+   ]
+  },
+  {
+   "id": 19589,
+   "type": "message",
+   "date": "2024-11-11T19:10:32",
+   "date_unixtime": "1731352232",
+   "edited": "2024-11-11T19:10:40",
+   "edited_unixtime": "1731352240",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Choose a period",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Choose a period"
+    }
+   ]
+  },
+  {
+   "id": 19590,
+   "type": "message",
+   "date": "2024-11-11T19:10:40",
+   "date_unixtime": "1731352240",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    "Statistics for all time in EUR\n\n📅 ",
+    {
+     "type": "bold",
+     "text": "2024"
+    },
+    "\nExpenses: ",
+    {
+     "type": "code",
+     "text": "431.51"
+    },
+    "\nIncome: ",
+    {
+     "type": "code",
+     "text": "0"
+    },
+    "\nTotal: ",
+    {
+     "type": "code",
+     "text": "-431.51"
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "➖ Expenses"
+    },
+    "\n",
+    {
+     "type": "code",
+     "text": "2024 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄"
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "➕ Income"
+    },
+    "\n",
+    {
+     "type": "code",
+     "text": "2024 "
+    },
+    "\n\nTotal expenses: ",
+    {
+     "type": "bold",
+     "text": "431.51 EUR"
+    },
+    "\nTotal income: ",
+    {
+     "type": "bold",
+     "text": "0 EUR"
+    },
+    "\nTotal: ",
+    {
+     "type": "bold",
+     "text": "-431.51 EUR"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Statistics for all time in EUR\n\n📅 "
+    },
+    {
+     "type": "bold",
+     "text": "2024"
+    },
+    {
+     "type": "plain",
+     "text": "\nExpenses: "
+    },
+    {
+     "type": "code",
+     "text": "431.51"
+    },
+    {
+     "type": "plain",
+     "text": "\nIncome: "
+    },
+    {
+     "type": "code",
+     "text": "0"
+    },
+    {
+     "type": "plain",
+     "text": "\nTotal: "
+    },
+    {
+     "type": "code",
+     "text": "-431.51"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "➖ Expenses"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "code",
+     "text": "2024 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "➕ Income"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "code",
+     "text": "2024 "
+    },
+    {
+     "type": "plain",
+     "text": "\n\nTotal expenses: "
+    },
+    {
+     "type": "bold",
+     "text": "431.51 EUR"
+    },
+    {
+     "type": "plain",
+     "text": "\nTotal income: "
+    },
+    {
+     "type": "bold",
+     "text": "0 EUR"
+    },
+    {
+     "type": "plain",
+     "text": "\nTotal: "
+    },
+    {
+     "type": "bold",
+     "text": "-431.51 EUR"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 19591,
+   "type": "message",
+   "date": "2024-11-11T19:10:52",
+   "date_unixtime": "1731352252",
+   "from": "Qx Zero",
+   "from_id": "user5688807590",
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/stats"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bot_command",
+     "text": "/stats"
+    }
+   ]
+  },
+  {
+   "id": 19592,
+   "type": "message",
+   "date": "2024-11-11T19:10:53",
+   "date_unixtime": "1731352253",
+   "edited": "2024-11-11T19:10:56",
+   "edited_unixtime": "1731352256",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Choose a period",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Choose a period"
+    }
+   ]
+  },
+  {
+   "id": 19593,
+   "type": "message",
+   "date": "2024-11-11T19:10:56",
+   "date_unixtime": "1731352256",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    "Statistics for current month (November) in EUR\n\n",
+    {
+     "type": "bold",
+     "text": "➖ Expenses"
+    },
+    "\n\n",
+    {
+     "type": "code",
+     "text": "250.59 (90%)"
+    },
+    " — 超市\n",
+    {
+     "type": "code",
+     "text": "26.5 (10%)"
+    },
+    " — 🥩肉铺\n\n👤 Qx — ",
+    {
+     "type": "code",
+     "text": "250.59 (90%)"
+    },
+    "\n👤 椭脸 — ",
+    {
+     "type": "code",
+     "text": "26.5 (10%)"
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "➕ Income"
+    },
+    "\n\nNo income for current month (November).\n\nTotal expenses: ",
+    {
+     "type": "bold",
+     "text": "277.09 EUR"
+    },
+    "\nTotal income: ",
+    {
+     "type": "bold",
+     "text": "0 EUR"
+    },
+    "\nTotal: ",
+    {
+     "type": "bold",
+     "text": "-277.09 EUR"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Statistics for current month (November) in EUR\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "➖ Expenses"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "code",
+     "text": "250.59 (90%)"
+    },
+    {
+     "type": "plain",
+     "text": " — 超市\n"
+    },
+    {
+     "type": "code",
+     "text": "26.5 (10%)"
+    },
+    {
+     "type": "plain",
+     "text": " — 🥩肉铺\n\n👤 Qx — "
+    },
+    {
+     "type": "code",
+     "text": "250.59 (90%)"
+    },
+    {
+     "type": "plain",
+     "text": "\n👤 椭脸 — "
+    },
+    {
+     "type": "code",
+     "text": "26.5 (10%)"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "➕ Income"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nNo income for current month (November).\n\nTotal expenses: "
+    },
+    {
+     "type": "bold",
+     "text": "277.09 EUR"
+    },
+    {
+     "type": "plain",
+     "text": "\nTotal income: "
+    },
+    {
+     "type": "bold",
+     "text": "0 EUR"
+    },
+    {
+     "type": "plain",
+     "text": "\nTotal: "
+    },
+    {
+     "type": "bold",
+     "text": "-277.09 EUR"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 19594,
+   "type": "message",
+   "date": "2024-11-11T19:24:08",
+   "date_unixtime": "1731353048",
+   "from": "RoundFace Dublin",
+   "from_id": "user1321217499",
+   "text": "25.61",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "25.61"
+    }
+   ]
+  },
+  {
+   "id": 19595,
+   "type": "message",
+   "date": "2024-11-11T19:24:09",
+   "date_unixtime": "1731353049",
+   "edited": "2024-11-11T19:24:13",
+   "edited_unixtime": "1731353053",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 19596,
+   "type": "message",
+   "date": "2024-11-11T19:24:13",
+   "date_unixtime": "1731353053",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "25.61 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "🪜 Household"
+    },
+    "\n11 November 2024, Monday"
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "25.61 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "🪜 Household"
+    },
+    {
+     "type": "plain",
+     "text": "\n11 November 2024, Monday"
+    }
+   ]
+  },
+  {
+   "id": 19597,
+   "type": "message",
+   "date": "2024-11-11T19:24:21",
+   "date_unixtime": "1731353061",
+   "from": "RoundFace Dublin",
+   "from_id": "user1321217499",
+   "text": "25",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "25"
+    }
+   ]
+  },
+  {
+   "id": 19598,
+   "type": "message",
+   "date": "2024-11-11T19:24:21",
+   "date_unixtime": "1731353061",
+   "edited": "2024-11-11T19:24:23",
+   "edited_unixtime": "1731353063",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 19599,
+   "type": "message",
+   "date": "2024-11-11T19:24:23",
+   "date_unixtime": "1731353063",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "25 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "🥩肉铺"
+    },
+    "\n11 November 2024, Monday"
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "25 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "🥩肉铺"
+    },
+    {
+     "type": "plain",
+     "text": "\n11 November 2024, Monday"
+    }
+   ]
+  },
+  {
+   "id": 19680,
+   "type": "message",
+   "date": "2024-11-12T21:36:58",
+   "date_unixtime": "1731447418",
+   "from": "润东 黄",
+   "from_id": "user6728763412",
+   "text": "254.61",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "254.61"
+    }
+   ]
+  },
+  {
+   "id": 19681,
+   "type": "message",
+   "date": "2024-11-12T21:36:58",
+   "date_unixtime": "1731447418",
+   "edited": "2024-11-12T21:37:06",
+   "edited_unixtime": "1731447426",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 19682,
+   "type": "message",
+   "date": "2024-11-12T21:37:06",
+   "date_unixtime": "1731447426",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "楼大王"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "254.61 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "超市"
+    },
+    "\n12 November 2024, Tuesday"
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "楼大王"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "254.61 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "超市"
+    },
+    {
+     "type": "plain",
+     "text": "\n12 November 2024, Tuesday"
+    }
+   ]
+  },
+  {
+   "id": 19741,
+   "type": "message",
+   "date": "2024-11-14T17:33:49",
+   "date_unixtime": "1731605629",
+   "from": "润东 黄",
+   "from_id": "user6728763412",
+   "text": "19.7",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "19.7"
+    }
+   ]
+  },
+  {
+   "id": 19742,
+   "type": "message",
+   "date": "2024-11-14T17:33:50",
+   "date_unixtime": "1731605630",
+   "edited": "2024-11-14T17:33:52",
+   "edited_unixtime": "1731605632",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 19743,
+   "type": "message",
+   "date": "2024-11-14T17:33:52",
+   "date_unixtime": "1731605632",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "楼大王"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "19.7 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "超市"
+    },
+    "\n14 November 2024, Thursday"
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "楼大王"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "19.7 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "超市"
+    },
+    {
+     "type": "plain",
+     "text": "\n14 November 2024, Thursday"
+    }
+   ]
+  },
+  {
+   "id": 19905,
+   "type": "message",
+   "date": "2024-11-16T15:30:41",
+   "date_unixtime": "1731771041",
+   "from": "Qx Zero",
+   "from_id": "user5688807590",
+   "text": "19.94",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "19.94"
+    }
+   ]
+  },
+  {
+   "id": 19906,
+   "type": "message",
+   "date": "2024-11-16T15:30:41",
+   "date_unixtime": "1731771041",
+   "edited": "2024-11-16T15:30:49",
+   "edited_unixtime": "1731771049",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 19907,
+   "type": "message",
+   "date": "2024-11-16T15:30:49",
+   "date_unixtime": "1731771049",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Qx"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "19.94 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "超市"
+    },
+    "\n16 November 2024, Saturday"
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Qx"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "19.94 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "超市"
+    },
+    {
+     "type": "plain",
+     "text": "\n16 November 2024, Saturday"
+    }
+   ]
+  },
+  {
+   "id": 19908,
+   "type": "message",
+   "date": "2024-11-16T15:31:19",
+   "date_unixtime": "1731771079",
+   "from": "RoundFace Dublin",
+   "from_id": "user1321217499",
+   "text": "44.96",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "44.96"
+    }
+   ]
+  },
+  {
+   "id": 19909,
+   "type": "message",
+   "date": "2024-11-16T15:31:19",
+   "date_unixtime": "1731771079",
+   "edited": "2024-11-16T15:31:24",
+   "edited_unixtime": "1731771084",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 19910,
+   "type": "message",
+   "date": "2024-11-16T15:31:24",
+   "date_unixtime": "1731771084",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "44.96 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "🥬 Groceries"
+    },
+    "\n16 November 2024, Saturday"
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "44.96 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "🥬 Groceries"
+    },
+    {
+     "type": "plain",
+     "text": "\n16 November 2024, Saturday"
+    }
+   ]
+  },
+  {
+   "id": 19911,
+   "type": "message",
+   "date": "2024-11-16T15:31:44",
+   "date_unixtime": "1731771104",
+   "from": "Qx Zero",
+   "from_id": "user5688807590",
+   "text": "23.5",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "23.5"
+    }
+   ]
+  },
+  {
+   "id": 19912,
+   "type": "message",
+   "date": "2024-11-16T15:31:44",
+   "date_unixtime": "1731771104",
+   "edited": "2024-11-16T15:31:48",
+   "edited_unixtime": "1731771108",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 19913,
+   "type": "message",
+   "date": "2024-11-16T15:31:48",
+   "date_unixtime": "1731771108",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Qx"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "23.5 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "🥩肉铺"
+    },
+    "\n16 November 2024, Saturday"
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Qx"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "23.5 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "🥩肉铺"
+    },
+    {
+     "type": "plain",
+     "text": "\n16 November 2024, Saturday"
+    }
+   ]
+  },
+  {
+   "id": 19914,
+   "type": "message",
+   "date": "2024-11-16T15:32:18",
+   "date_unixtime": "1731771138",
+   "from": "Qx Zero",
+   "from_id": "user5688807590",
+   "text": "19",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "19"
+    }
+   ]
+  },
+  {
+   "id": 19915,
+   "type": "message",
+   "date": "2024-11-16T15:32:18",
+   "date_unixtime": "1731771138",
+   "edited": "2024-11-16T15:32:21",
+   "edited_unixtime": "1731771141",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 19916,
+   "type": "message",
+   "date": "2024-11-16T15:32:21",
+   "date_unixtime": "1731771141",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Qx"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "19 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "超市"
+    },
+    "\n16 November 2024, Saturday"
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Qx"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "19 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "超市"
+    },
+    {
+     "type": "plain",
+     "text": "\n16 November 2024, Saturday"
+    }
+   ]
+  },
+  {
+   "id": 19917,
+   "type": "message",
+   "date": "2024-11-16T15:56:12",
+   "date_unixtime": "1731772572",
+   "from": "RoundFace Dublin",
+   "from_id": "user1321217499",
+   "text": "14",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "14"
+    }
+   ]
+  },
+  {
+   "id": 19918,
+   "type": "message",
+   "date": "2024-11-16T15:56:12",
+   "date_unixtime": "1731772572",
+   "edited": "2024-11-16T15:56:14",
+   "edited_unixtime": "1731772574",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 19919,
+   "type": "message",
+   "date": "2024-11-16T15:56:14",
+   "date_unixtime": "1731772574",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "14 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "🥩肉铺"
+    },
+    "\n16 November 2024, Saturday"
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "14 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "🥩肉铺"
+    },
+    {
+     "type": "plain",
+     "text": "\n16 November 2024, Saturday"
+    }
+   ]
+  },
+  {
+   "id": 20061,
+   "type": "message",
+   "date": "2024-11-19T13:55:32",
+   "date_unixtime": "1732024532",
+   "from": "Qx Zero",
+   "from_id": "user5688807590",
+   "text": "80.95",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "80.95"
+    }
+   ]
+  },
+  {
+   "id": 20062,
+   "type": "message",
+   "date": "2024-11-19T13:55:32",
+   "date_unixtime": "1732024532",
+   "edited": "2024-11-19T13:55:35",
+   "edited_unixtime": "1732024535",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 20063,
+   "type": "message",
+   "date": "2024-11-19T13:55:35",
+   "date_unixtime": "1732024535",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Qx"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "80.95 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "超市"
+    },
+    "\n19 November 2024, Tuesday"
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Qx"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "80.95 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "超市"
+    },
+    {
+     "type": "plain",
+     "text": "\n19 November 2024, Tuesday"
+    }
+   ]
+  },
+  {
+   "id": 20064,
+   "type": "message",
+   "date": "2024-11-19T20:40:48",
+   "date_unixtime": "1732048848",
+   "from": "RoundFace Dublin",
+   "from_id": "user1321217499",
+   "text": "51.46",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "51.46"
+    }
+   ]
+  },
+  {
+   "id": 20065,
+   "type": "message",
+   "date": "2024-11-19T20:40:48",
+   "date_unixtime": "1732048848",
+   "edited": "2024-11-19T20:40:52",
+   "edited_unixtime": "1732048852",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 20066,
+   "type": "message",
+   "date": "2024-11-19T20:40:52",
+   "date_unixtime": "1732048852",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "51.46 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "TEMU"
+    },
+    "\n19 November 2024, Tuesday"
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "51.46 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "TEMU"
+    },
+    {
+     "type": "plain",
+     "text": "\n19 November 2024, Tuesday"
+    }
+   ]
+  },
+  {
+   "id": 20497,
+   "type": "message",
+   "date": "2024-11-25T16:45:15",
+   "date_unixtime": "1732553115",
+   "from": "Qx Zero",
+   "from_id": "user5688807590",
+   "text": "8.6",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "8.6"
+    }
+   ]
+  },
+  {
+   "id": 20498,
+   "type": "message",
+   "date": "2024-11-25T16:45:15",
+   "date_unixtime": "1732553115",
+   "edited": "2024-11-25T16:45:22",
+   "edited_unixtime": "1732553122",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 20499,
+   "type": "message",
+   "date": "2024-11-25T16:45:22",
+   "date_unixtime": "1732553122",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Qx"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "8.6 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "超市"
+    },
+    "\n25 November 2024, Monday"
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Qx"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "8.6 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "超市"
+    },
+    {
+     "type": "plain",
+     "text": "\n25 November 2024, Monday"
+    }
+   ]
+  },
+  {
+   "id": 20500,
+   "type": "message",
+   "date": "2024-11-25T16:45:56",
+   "date_unixtime": "1732553156",
+   "from": "RoundFace Dublin",
+   "from_id": "user1321217499",
+   "text": "47.5",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "47.5"
+    }
+   ]
+  },
+  {
+   "id": 20501,
+   "type": "message",
+   "date": "2024-11-25T16:45:57",
+   "date_unixtime": "1732553157",
+   "edited": "2024-11-25T16:46:00",
+   "edited_unixtime": "1732553160",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 20502,
+   "type": "message",
+   "date": "2024-11-25T16:46:00",
+   "date_unixtime": "1732553160",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "47.5 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "🥩肉铺"
+    },
+    "\n25 November 2024, Monday"
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "47.5 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "🥩肉铺"
+    },
+    {
+     "type": "plain",
+     "text": "\n25 November 2024, Monday"
+    }
+   ]
+  },
+  {
+   "id": 20503,
+   "type": "message",
+   "date": "2024-11-25T16:46:04",
+   "date_unixtime": "1732553164",
+   "from": "RoundFace Dublin",
+   "from_id": "user1321217499",
+   "text": "40",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "40"
+    }
+   ]
+  },
+  {
+   "id": 20504,
+   "type": "message",
+   "date": "2024-11-25T16:46:05",
+   "date_unixtime": "1732553165",
+   "edited": "2024-11-25T16:46:11",
+   "edited_unixtime": "1732553171",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 20505,
+   "type": "message",
+   "date": "2024-11-25T16:46:10",
+   "date_unixtime": "1732553170",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "40 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "🥬 Groceries"
+    },
+    "\n25 November 2024, Monday"
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "40 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "🥬 Groceries"
+    },
+    {
+     "type": "plain",
+     "text": "\n25 November 2024, Monday"
+    }
+   ]
+  },
+  {
+   "id": 20506,
+   "type": "message",
+   "date": "2024-11-25T16:47:54",
+   "date_unixtime": "1732553274",
+   "from": "RoundFace Dublin",
+   "from_id": "user1321217499",
+   "text": "75.2",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "75.2"
+    }
+   ]
+  },
+  {
+   "id": 20507,
+   "type": "message",
+   "date": "2024-11-25T16:47:54",
+   "date_unixtime": "1732553274",
+   "edited": "2024-11-25T16:48:00",
+   "edited_unixtime": "1732553280",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 20508,
+   "type": "message",
+   "date": "2024-11-25T16:48:00",
+   "date_unixtime": "1732553280",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "75.2 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "🪜 Household"
+    },
+    "\n25 November 2024, Monday"
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "75.2 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "🪜 Household"
+    },
+    {
+     "type": "plain",
+     "text": "\n25 November 2024, Monday"
+    }
+   ]
+  },
+  {
+   "id": 20509,
+   "type": "message",
+   "date": "2024-11-25T16:48:08",
+   "date_unixtime": "1732553288",
+   "from": "Qx Zero",
+   "from_id": "user5688807590",
+   "text": "13.11",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "13.11"
+    }
+   ]
+  },
+  {
+   "id": 20510,
+   "type": "message",
+   "date": "2024-11-25T16:48:09",
+   "date_unixtime": "1732553289",
+   "edited": "2024-11-25T16:48:12",
+   "edited_unixtime": "1732553292",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 20511,
+   "type": "message",
+   "date": "2024-11-25T16:48:11",
+   "date_unixtime": "1732553291",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Qx"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "13.11 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "超市"
+    },
+    "\n25 November 2024, Monday"
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Qx"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "13.11 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "超市"
+    },
+    {
+     "type": "plain",
+     "text": "\n25 November 2024, Monday"
+    }
+   ]
+  },
+  {
+   "id": 21026,
+   "type": "message",
+   "date": "2024-11-29T15:31:03",
+   "date_unixtime": "1732894263",
+   "from": "Qx Zero",
+   "from_id": "user5688807590",
+   "text": "26.28",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "26.28"
+    }
+   ]
+  },
+  {
+   "id": 21027,
+   "type": "message",
+   "date": "2024-11-29T15:31:04",
+   "date_unixtime": "1732894264",
+   "edited": "2024-11-29T15:31:06",
+   "edited_unixtime": "1732894266",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 21028,
+   "type": "message",
+   "date": "2024-11-29T15:31:06",
+   "date_unixtime": "1732894266",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Qx"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "26.28 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "超市"
+    },
+    "\n29 November 2024, Friday"
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Qx"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "26.28 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "超市"
+    },
+    {
+     "type": "plain",
+     "text": "\n29 November 2024, Friday"
+    }
+   ]
+  },
+  {
+   "id": 21029,
+   "type": "message",
+   "date": "2024-11-29T15:31:25",
+   "date_unixtime": "1732894285",
+   "from": "Qx Zero",
+   "from_id": "user5688807590",
+   "text": "26.43",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "26.43"
+    }
+   ]
+  },
+  {
+   "id": 21030,
+   "type": "message",
+   "date": "2024-11-29T15:31:26",
+   "date_unixtime": "1732894286",
+   "edited": "2024-11-29T15:31:28",
+   "edited_unixtime": "1732894288",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 21031,
+   "type": "message",
+   "date": "2024-11-29T15:31:28",
+   "date_unixtime": "1732894288",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Qx"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "26.43 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "超市"
+    },
+    "\n29 November 2024, Friday"
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Qx"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "26.43 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "超市"
+    },
+    {
+     "type": "plain",
+     "text": "\n29 November 2024, Friday"
+    }
+   ]
+  },
+  {
+   "id": 21032,
+   "type": "message",
+   "date": "2024-11-29T15:34:56",
+   "date_unixtime": "1732894496",
+   "from": "RoundFace Dublin",
+   "from_id": "user1321217499",
+   "text": "25.64",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "25.64"
+    }
+   ]
+  },
+  {
+   "id": 21033,
+   "type": "message",
+   "date": "2024-11-29T15:34:56",
+   "date_unixtime": "1732894496",
+   "edited": "2024-11-29T15:34:59",
+   "edited_unixtime": "1732894499",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 21034,
+   "type": "message",
+   "date": "2024-11-29T15:34:59",
+   "date_unixtime": "1732894499",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "25.64 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "TEMU"
+    },
+    "\n29 November 2024, Friday"
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "25.64 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "TEMU"
+    },
+    {
+     "type": "plain",
+     "text": "\n29 November 2024, Friday"
+    }
+   ]
+  },
+  {
+   "id": 21065,
+   "type": "message",
+   "date": "2024-11-30T19:19:15",
+   "date_unixtime": "1732994355",
+   "from": "RoundFace Dublin",
+   "from_id": "user1321217499",
+   "text": "55",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "55"
+    }
+   ]
+  },
+  {
+   "id": 21066,
+   "type": "message",
+   "date": "2024-11-30T19:19:16",
+   "date_unixtime": "1732994356",
+   "edited": "2024-11-30T19:19:18",
+   "edited_unixtime": "1732994358",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 21067,
+   "type": "message",
+   "date": "2024-11-30T19:19:18",
+   "date_unixtime": "1732994358",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "55 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "🥩肉铺"
+    },
+    "\n30 November 2024, Saturday"
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "55 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "🥩肉铺"
+    },
+    {
+     "type": "plain",
+     "text": "\n30 November 2024, Saturday"
+    }
+   ]
+  },
+  {
+   "id": 21076,
+   "type": "message",
+   "date": "2024-12-01T17:51:00",
+   "date_unixtime": "1733075460",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "📅 Monthly report (November)"
+    },
+    "\n\n👎 In the last month, you spent ",
+    {
+     "type": "bold",
+     "text": "1,173.58 EUR"
+    },
+    ", which is ",
+    {
+     "type": "bold",
+     "text": "1,019.16 EUR"
+    },
+    " (659.99%) more compared to the previous month.\n\nYou didn't record any income.\n\n👎 Total balance is ",
+    {
+     "type": "bold",
+     "text": "-1,173.58 EUR"
+    },
+    ".\n\nOn average, you spent ",
+    {
+     "type": "bold",
+     "text": "39.12 EUR"
+    },
+    " a day.\nOn average, you earned ",
+    {
+     "type": "bold",
+     "text": "0 EUR"
+    },
+    " a day.\n\n",
+    {
+     "type": "italic",
+     "text": "More detailed statistics split by categories is available after sending "
+    },
+    {
+     "type": "bot_command",
+     "text": "/stats"
+    },
+    {
+     "type": "italic",
+     "text": "."
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "📅 Monthly report (November)"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n👎 In the last month, you spent "
+    },
+    {
+     "type": "bold",
+     "text": "1,173.58 EUR"
+    },
+    {
+     "type": "plain",
+     "text": ", which is "
+    },
+    {
+     "type": "bold",
+     "text": "1,019.16 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " (659.99%) more compared to the previous month.\n\nYou didn't record any income.\n\n👎 Total balance is "
+    },
+    {
+     "type": "bold",
+     "text": "-1,173.58 EUR"
+    },
+    {
+     "type": "plain",
+     "text": ".\n\nOn average, you spent "
+    },
+    {
+     "type": "bold",
+     "text": "39.12 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " a day.\nOn average, you earned "
+    },
+    {
+     "type": "bold",
+     "text": "0 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " a day.\n\n"
+    },
+    {
+     "type": "italic",
+     "text": "More detailed statistics split by categories is available after sending "
+    },
+    {
+     "type": "bot_command",
+     "text": "/stats"
+    },
+    {
+     "type": "italic",
+     "text": "."
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 21564,
+   "type": "message",
+   "date": "2024-12-07T14:32:20",
+   "date_unixtime": "1733581940",
+   "from": "RoundFace Dublin",
+   "from_id": "user1321217499",
+   "text": "20",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "20"
+    }
+   ]
+  },
+  {
+   "id": 21565,
+   "type": "message",
+   "date": "2024-12-07T14:32:21",
+   "date_unixtime": "1733581941",
+   "edited": "2024-12-07T14:32:23",
+   "edited_unixtime": "1733581943",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 21566,
+   "type": "message",
+   "date": "2024-12-07T14:32:23",
+   "date_unixtime": "1733581943",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "20 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "🥩肉铺"
+    },
+    "\n7 December 2024, Saturday"
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "20 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "🥩肉铺"
+    },
+    {
+     "type": "plain",
+     "text": "\n7 December 2024, Saturday"
+    }
+   ]
+  },
+  {
+   "id": 21573,
+   "type": "message",
+   "date": "2024-12-07T18:34:30",
+   "date_unixtime": "1733596470",
+   "from": "RoundFace Dublin",
+   "from_id": "user1321217499",
+   "text": "68.8",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "68.8"
+    }
+   ]
+  },
+  {
+   "id": 21574,
+   "type": "message",
+   "date": "2024-12-07T18:34:31",
+   "date_unixtime": "1733596471",
+   "edited": "2024-12-07T18:34:35",
+   "edited_unixtime": "1733596475",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 21575,
+   "type": "message",
+   "date": "2024-12-07T18:34:35",
+   "date_unixtime": "1733596475",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "68.8 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "🥬 Groceries"
+    },
+    "\n7 December 2024, Saturday"
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "68.8 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "🥬 Groceries"
+    },
+    {
+     "type": "plain",
+     "text": "\n7 December 2024, Saturday"
+    }
+   ]
+  },
+  {
+   "id": 21600,
+   "type": "message",
+   "date": "2024-12-08T01:12:50",
+   "date_unixtime": "1733620370",
+   "from": "Qx Zero",
+   "from_id": "user5688807590",
+   "text": "39.81",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "39.81"
+    }
+   ]
+  },
+  {
+   "id": 21601,
+   "type": "message",
+   "date": "2024-12-08T01:12:50",
+   "date_unixtime": "1733620370",
+   "edited": "2024-12-08T01:12:52",
+   "edited_unixtime": "1733620372",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 21602,
+   "type": "message",
+   "date": "2024-12-08T01:12:52",
+   "date_unixtime": "1733620372",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Qx"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "39.81 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "超市"
+    },
+    "\n8 December 2024, Sunday"
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Qx"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "39.81 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "超市"
+    },
+    {
+     "type": "plain",
+     "text": "\n8 December 2024, Sunday"
+    }
+   ]
+  },
+  {
+   "id": 21985,
+   "type": "message",
+   "date": "2024-12-11T16:46:37",
+   "date_unixtime": "1733935597",
+   "from": "Qx Zero",
+   "from_id": "user5688807590",
+   "text": "19.64",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "19.64"
+    }
+   ]
+  },
+  {
+   "id": 21986,
+   "type": "message",
+   "date": "2024-12-11T16:46:37",
+   "date_unixtime": "1733935597",
+   "edited": "2024-12-11T16:46:40",
+   "edited_unixtime": "1733935600",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 21987,
+   "type": "message",
+   "date": "2024-12-11T16:46:39",
+   "date_unixtime": "1733935599",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Qx"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "19.64 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "超市"
+    },
+    "\n11 December 2024, Wednesday"
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Qx"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "19.64 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "超市"
+    },
+    {
+     "type": "plain",
+     "text": "\n11 December 2024, Wednesday"
+    }
+   ]
+  },
+  {
+   "id": 22152,
+   "type": "message",
+   "date": "2024-12-14T16:24:52",
+   "date_unixtime": "1734193492",
+   "from": "RoundFace Dublin",
+   "from_id": "user1321217499",
+   "text": "11.07",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "11.07"
+    }
+   ]
+  },
+  {
+   "id": 22153,
+   "type": "message",
+   "date": "2024-12-14T16:24:52",
+   "date_unixtime": "1734193492",
+   "edited": "2024-12-14T16:24:57",
+   "edited_unixtime": "1734193497",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 22154,
+   "type": "message",
+   "date": "2024-12-14T16:24:57",
+   "date_unixtime": "1734193497",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "11.07 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "🪜 Household"
+    },
+    "\n14 December 2024, Saturday"
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "11.07 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "🪜 Household"
+    },
+    {
+     "type": "plain",
+     "text": "\n14 December 2024, Saturday"
+    }
+   ]
+  },
+  {
+   "id": 22155,
+   "type": "message",
+   "date": "2024-12-14T16:25:22",
+   "date_unixtime": "1734193522",
+   "from": "RoundFace Dublin",
+   "from_id": "user1321217499",
+   "text": "31",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "31"
+    }
+   ]
+  },
+  {
+   "id": 22156,
+   "type": "message",
+   "date": "2024-12-14T16:25:22",
+   "date_unixtime": "1734193522",
+   "edited": "2024-12-14T16:25:24",
+   "edited_unixtime": "1734193524",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 22157,
+   "type": "message",
+   "date": "2024-12-14T16:25:24",
+   "date_unixtime": "1734193524",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "31 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "🥩肉铺"
+    },
+    "\n14 December 2024, Saturday"
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "31 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "🥩肉铺"
+    },
+    {
+     "type": "plain",
+     "text": "\n14 December 2024, Saturday"
+    }
+   ]
+  },
+  {
+   "id": 22158,
+   "type": "message",
+   "date": "2024-12-14T16:27:13",
+   "date_unixtime": "1734193633",
+   "from": "RoundFace Dublin",
+   "from_id": "user1321217499",
+   "text": "33.48",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "33.48"
+    }
+   ]
+  },
+  {
+   "id": 22159,
+   "type": "message",
+   "date": "2024-12-14T16:27:13",
+   "date_unixtime": "1734193633",
+   "edited": "2024-12-14T16:27:16",
+   "edited_unixtime": "1734193636",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 22160,
+   "type": "message",
+   "date": "2024-12-14T16:27:16",
+   "date_unixtime": "1734193636",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "33.48 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "TEMU"
+    },
+    "\n14 December 2024, Saturday"
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "33.48 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "TEMU"
+    },
+    {
+     "type": "plain",
+     "text": "\n14 December 2024, Saturday"
+    }
+   ]
+  },
+  {
+   "id": 22169,
+   "type": "message",
+   "date": "2024-12-15T14:31:36",
+   "date_unixtime": "1734273096",
+   "from": "Qx Zero",
+   "from_id": "user5688807590",
+   "text": "8.28",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "8.28"
+    }
+   ]
+  },
+  {
+   "id": 22170,
+   "type": "message",
+   "date": "2024-12-15T14:31:36",
+   "date_unixtime": "1734273096",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    "🤨 Something went wrong.\n\nPlease, try again later or send ",
+    {
+     "type": "bot_command",
+     "text": "/cancel"
+    },
+    " to cancel the current operation."
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "🤨 Something went wrong.\n\nPlease, try again later or send "
+    },
+    {
+     "type": "bot_command",
+     "text": "/cancel"
+    },
+    {
+     "type": "plain",
+     "text": " to cancel the current operation."
+    }
+   ]
+  },
+  {
+   "id": 22171,
+   "type": "message",
+   "date": "2024-12-15T14:31:51",
+   "date_unixtime": "1734273111",
+   "from": "Qx Zero",
+   "from_id": "user5688807590",
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/cancel"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bot_command",
+     "text": "/cancel"
+    }
+   ]
+  },
+  {
+   "id": 22172,
+   "type": "message",
+   "date": "2024-12-15T14:31:51",
+   "date_unixtime": "1734273111",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    "🤨 Something went wrong.\n\nPlease, try again later or send ",
+    {
+     "type": "bot_command",
+     "text": "/cancel"
+    },
+    " to cancel the current operation."
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "🤨 Something went wrong.\n\nPlease, try again later or send "
+    },
+    {
+     "type": "bot_command",
+     "text": "/cancel"
+    },
+    {
+     "type": "plain",
+     "text": " to cancel the current operation."
+    }
+   ]
+  },
+  {
+   "id": 22173,
+   "type": "message",
+   "date": "2024-12-15T14:51:58",
+   "date_unixtime": "1734274318",
+   "from": "Qx Zero",
+   "from_id": "user5688807590",
+   "text": "8.28",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "8.28"
+    }
+   ]
+  },
+  {
+   "id": 22174,
+   "type": "message",
+   "date": "2024-12-15T14:51:59",
+   "date_unixtime": "1734274319",
+   "edited": "2024-12-15T14:52:01",
+   "edited_unixtime": "1734274321",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 22175,
+   "type": "message",
+   "date": "2024-12-15T14:52:01",
+   "date_unixtime": "1734274321",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Qx"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "8.28 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "超市"
+    },
+    "\n15 December 2024, Sunday"
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Qx"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "8.28 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "超市"
+    },
+    {
+     "type": "plain",
+     "text": "\n15 December 2024, Sunday"
+    }
+   ]
+  },
+  {
+   "id": 22210,
+   "type": "message",
+   "date": "2024-12-16T15:43:06",
+   "date_unixtime": "1734363786",
+   "from": "RoundFace Dublin",
+   "from_id": "user1321217499",
+   "text": "8.11",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "8.11"
+    }
+   ]
+  },
+  {
+   "id": 22211,
+   "type": "message",
+   "date": "2024-12-16T15:43:06",
+   "date_unixtime": "1734363786",
+   "edited": "2024-12-16T15:43:09",
+   "edited_unixtime": "1734363789",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 22212,
+   "type": "message",
+   "date": "2024-12-16T15:43:09",
+   "date_unixtime": "1734363789",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "8.11 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "🥬 Groceries"
+    },
+    "\n16 December 2024, Monday"
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "8.11 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "🥬 Groceries"
+    },
+    {
+     "type": "plain",
+     "text": "\n16 December 2024, Monday"
+    }
+   ]
+  },
+  {
+   "id": 22257,
+   "type": "message",
+   "date": "2024-12-18T23:49:16",
+   "date_unixtime": "1734565756",
+   "from": "RoundFace Dublin",
+   "from_id": "user1321217499",
+   "text": "35",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "35"
+    }
+   ]
+  },
+  {
+   "id": 22258,
+   "type": "message",
+   "date": "2024-12-18T23:49:17",
+   "date_unixtime": "1734565757",
+   "edited": "2024-12-18T23:49:19",
+   "edited_unixtime": "1734565759",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 22259,
+   "type": "message",
+   "date": "2024-12-18T23:49:19",
+   "date_unixtime": "1734565759",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "35 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "🥩肉铺"
+    },
+    "\n18 December 2024, Wednesday"
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "35 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "🥩肉铺"
+    },
+    {
+     "type": "plain",
+     "text": "\n18 December 2024, Wednesday"
+    }
+   ]
+  },
+  {
+   "id": 22260,
+   "type": "message",
+   "date": "2024-12-18T23:49:23",
+   "date_unixtime": "1734565763",
+   "from": "RoundFace Dublin",
+   "from_id": "user1321217499",
+   "text": "63.75",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "63.75"
+    }
+   ]
+  },
+  {
+   "id": 22261,
+   "type": "message",
+   "date": "2024-12-18T23:49:23",
+   "date_unixtime": "1734565763",
+   "edited": "2024-12-18T23:49:28",
+   "edited_unixtime": "1734565768",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 22262,
+   "type": "message",
+   "date": "2024-12-18T23:49:28",
+   "date_unixtime": "1734565768",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "63.75 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "🥬 Groceries"
+    },
+    "\n18 December 2024, Wednesday"
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "63.75 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "🥬 Groceries"
+    },
+    {
+     "type": "plain",
+     "text": "\n18 December 2024, Wednesday"
+    }
+   ]
+  },
+  {
+   "id": 22263,
+   "type": "message",
+   "date": "2024-12-19T15:13:58",
+   "date_unixtime": "1734621238",
+   "from": "Qx Zero",
+   "from_id": "user5688807590",
+   "text": "23.84",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "23.84"
+    }
+   ]
+  },
+  {
+   "id": 22264,
+   "type": "message",
+   "date": "2024-12-19T15:13:58",
+   "date_unixtime": "1734621238",
+   "edited": "2024-12-19T15:14:04",
+   "edited_unixtime": "1734621244",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 22265,
+   "type": "message",
+   "date": "2024-12-19T15:14:04",
+   "date_unixtime": "1734621244",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Qx"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "23.84 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "超市"
+    },
+    "\n19 December 2024, Thursday"
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Qx"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "23.84 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "超市"
+    },
+    {
+     "type": "plain",
+     "text": "\n19 December 2024, Thursday"
+    }
+   ]
+  },
+  {
+   "id": 22291,
+   "type": "message",
+   "date": "2024-12-21T11:54:46",
+   "date_unixtime": "1734782086",
+   "from": "RoundFace Dublin",
+   "from_id": "user1321217499",
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/stats@cointrybot"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bot_command",
+     "text": "/stats@cointrybot"
+    }
+   ]
+  },
+  {
+   "id": 22292,
+   "type": "message",
+   "date": "2024-12-21T11:54:46",
+   "date_unixtime": "1734782086",
+   "edited": "2024-12-21T11:54:50",
+   "edited_unixtime": "1734782090",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Choose a period",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Choose a period"
+    }
+   ]
+  },
+  {
+   "id": 22293,
+   "type": "message",
+   "date": "2024-12-21T11:54:50",
+   "date_unixtime": "1734782090",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    "Statistics for last month (November) in EUR\n\n",
+    {
+     "type": "bold",
+     "text": "➖ Expenses"
+    },
+    "\n\n",
+    {
+     "type": "code",
+     "text": "719.21 (61%)"
+    },
+    " — 超市\n",
+    {
+     "type": "code",
+     "text": "191.5 (16%)"
+    },
+    " — 🥩肉铺\n",
+    {
+     "type": "code",
+     "text": "100.81 (9%)"
+    },
+    " — 🪜 Household\n",
+    {
+     "type": "code",
+     "text": "84.96 (7%)"
+    },
+    " — 🥬 Groceries\n",
+    {
+     "type": "code",
+     "text": "77.1 (7%)"
+    },
+    " — TEMU\n\n👤 Qx — ",
+    {
+     "type": "code",
+     "text": "468.4 (40%)"
+    },
+    "\n👤 椭脸 — ",
+    {
+     "type": "code",
+     "text": "430.87 (37%)"
+    },
+    "\n👤 楼大王 — ",
+    {
+     "type": "code",
+     "text": "274.31 (23%)"
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "➕ Income"
+    },
+    "\n\nNo income for last month (November).\n\nTotal expenses: ",
+    {
+     "type": "bold",
+     "text": "1,173.58 EUR"
+    },
+    "\nTotal income: ",
+    {
+     "type": "bold",
+     "text": "0 EUR"
+    },
+    "\nTotal: ",
+    {
+     "type": "bold",
+     "text": "-1,173.58 EUR"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Statistics for last month (November) in EUR\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "➖ Expenses"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "code",
+     "text": "719.21 (61%)"
+    },
+    {
+     "type": "plain",
+     "text": " — 超市\n"
+    },
+    {
+     "type": "code",
+     "text": "191.5 (16%)"
+    },
+    {
+     "type": "plain",
+     "text": " — 🥩肉铺\n"
+    },
+    {
+     "type": "code",
+     "text": "100.81 (9%)"
+    },
+    {
+     "type": "plain",
+     "text": " — 🪜 Household\n"
+    },
+    {
+     "type": "code",
+     "text": "84.96 (7%)"
+    },
+    {
+     "type": "plain",
+     "text": " — 🥬 Groceries\n"
+    },
+    {
+     "type": "code",
+     "text": "77.1 (7%)"
+    },
+    {
+     "type": "plain",
+     "text": " — TEMU\n\n👤 Qx — "
+    },
+    {
+     "type": "code",
+     "text": "468.4 (40%)"
+    },
+    {
+     "type": "plain",
+     "text": "\n👤 椭脸 — "
+    },
+    {
+     "type": "code",
+     "text": "430.87 (37%)"
+    },
+    {
+     "type": "plain",
+     "text": "\n👤 楼大王 — "
+    },
+    {
+     "type": "code",
+     "text": "274.31 (23%)"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "➕ Income"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nNo income for last month (November).\n\nTotal expenses: "
+    },
+    {
+     "type": "bold",
+     "text": "1,173.58 EUR"
+    },
+    {
+     "type": "plain",
+     "text": "\nTotal income: "
+    },
+    {
+     "type": "bold",
+     "text": "0 EUR"
+    },
+    {
+     "type": "plain",
+     "text": "\nTotal: "
+    },
+    {
+     "type": "bold",
+     "text": "-1,173.58 EUR"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 22294,
+   "type": "message",
+   "date": "2024-12-21T11:54:57",
+   "date_unixtime": "1734782097",
+   "from": "RoundFace Dublin",
+   "from_id": "user1321217499",
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/stats@cointrybot"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bot_command",
+     "text": "/stats@cointrybot"
+    }
+   ]
+  },
+  {
+   "id": 22295,
+   "type": "message",
+   "date": "2024-12-21T11:54:57",
+   "date_unixtime": "1734782097",
+   "edited": "2024-12-21T11:55:00",
+   "edited_unixtime": "1734782100",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Choose a period",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Choose a period"
+    }
+   ]
+  },
+  {
+   "id": 22296,
+   "type": "message",
+   "date": "2024-12-21T11:55:00",
+   "date_unixtime": "1734782100",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    "Statistics for current month (December) in EUR\n\n",
+    {
+     "type": "bold",
+     "text": "➖ Expenses"
+    },
+    "\n\n",
+    {
+     "type": "code",
+     "text": "140.66 (39%)"
+    },
+    " — 🥬 Groceries\n",
+    {
+     "type": "code",
+     "text": "91.57 (25%)"
+    },
+    " — 超市\n",
+    {
+     "type": "code",
+     "text": "86 (24%)"
+    },
+    " — 🥩肉铺\n",
+    {
+     "type": "code",
+     "text": "33.48 (9%)"
+    },
+    " — TEMU\n",
+    {
+     "type": "code",
+     "text": "11.07 (3%)"
+    },
+    " — 🪜 Household\n\n👤 椭脸 — ",
+    {
+     "type": "code",
+     "text": "271.21 (75%)"
+    },
+    "\n👤 Qx — ",
+    {
+     "type": "code",
+     "text": "91.57 (25%)"
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "➕ Income"
+    },
+    "\n\nNo income for current month (December).\n\nTotal expenses: ",
+    {
+     "type": "bold",
+     "text": "362.78 EUR"
+    },
+    "\nTotal income: ",
+    {
+     "type": "bold",
+     "text": "0 EUR"
+    },
+    "\nTotal: ",
+    {
+     "type": "bold",
+     "text": "-362.78 EUR"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Statistics for current month (December) in EUR\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "➖ Expenses"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "code",
+     "text": "140.66 (39%)"
+    },
+    {
+     "type": "plain",
+     "text": " — 🥬 Groceries\n"
+    },
+    {
+     "type": "code",
+     "text": "91.57 (25%)"
+    },
+    {
+     "type": "plain",
+     "text": " — 超市\n"
+    },
+    {
+     "type": "code",
+     "text": "86 (24%)"
+    },
+    {
+     "type": "plain",
+     "text": " — 🥩肉铺\n"
+    },
+    {
+     "type": "code",
+     "text": "33.48 (9%)"
+    },
+    {
+     "type": "plain",
+     "text": " — TEMU\n"
+    },
+    {
+     "type": "code",
+     "text": "11.07 (3%)"
+    },
+    {
+     "type": "plain",
+     "text": " — 🪜 Household\n\n👤 椭脸 — "
+    },
+    {
+     "type": "code",
+     "text": "271.21 (75%)"
+    },
+    {
+     "type": "plain",
+     "text": "\n👤 Qx — "
+    },
+    {
+     "type": "code",
+     "text": "91.57 (25%)"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "➕ Income"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nNo income for current month (December).\n\nTotal expenses: "
+    },
+    {
+     "type": "bold",
+     "text": "362.78 EUR"
+    },
+    {
+     "type": "plain",
+     "text": "\nTotal income: "
+    },
+    {
+     "type": "bold",
+     "text": "0 EUR"
+    },
+    {
+     "type": "plain",
+     "text": "\nTotal: "
+    },
+    {
+     "type": "bold",
+     "text": "-362.78 EUR"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 22303,
+   "type": "message",
+   "date": "2024-12-21T16:34:38",
+   "date_unixtime": "1734798878",
+   "from": "Qx Zero",
+   "from_id": "user5688807590",
+   "text": "25.87",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "25.87"
+    }
+   ]
+  },
+  {
+   "id": 22304,
+   "type": "message",
+   "date": "2024-12-21T16:34:38",
+   "date_unixtime": "1734798878",
+   "edited": "2024-12-21T16:34:40",
+   "edited_unixtime": "1734798880",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 22305,
+   "type": "message",
+   "date": "2024-12-21T16:34:40",
+   "date_unixtime": "1734798880",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Qx"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "25.87 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "超市"
+    },
+    "\n21 December 2024, Saturday"
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Qx"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "25.87 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "超市"
+    },
+    {
+     "type": "plain",
+     "text": "\n21 December 2024, Saturday"
+    }
+   ]
+  },
+  {
+   "id": 22311,
+   "type": "message",
+   "date": "2024-12-22T16:32:29",
+   "date_unixtime": "1734885149",
+   "from": "RoundFace Dublin",
+   "from_id": "user1321217499",
+   "text": "31",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "31"
+    }
+   ]
+  },
+  {
+   "id": 22312,
+   "type": "message",
+   "date": "2024-12-22T16:32:30",
+   "date_unixtime": "1734885150",
+   "edited": "2024-12-22T16:32:32",
+   "edited_unixtime": "1734885152",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 22313,
+   "type": "message",
+   "date": "2024-12-22T16:32:32",
+   "date_unixtime": "1734885152",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "31 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "🥩肉铺"
+    },
+    "\n22 December 2024, Sunday"
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "31 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "🥩肉铺"
+    },
+    {
+     "type": "plain",
+     "text": "\n22 December 2024, Sunday"
+    }
+   ]
+  },
+  {
+   "id": 22314,
+   "type": "message",
+   "date": "2024-12-22T16:32:39",
+   "date_unixtime": "1734885159",
+   "from": "RoundFace Dublin",
+   "from_id": "user1321217499",
+   "text": "18.41",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "18.41"
+    }
+   ]
+  },
+  {
+   "id": 22315,
+   "type": "message",
+   "date": "2024-12-22T16:32:39",
+   "date_unixtime": "1734885159",
+   "edited": "2024-12-22T16:32:43",
+   "edited_unixtime": "1734885163",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 22316,
+   "type": "message",
+   "date": "2024-12-22T16:32:43",
+   "date_unixtime": "1734885163",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "18.41 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "🥬 Groceries"
+    },
+    "\n22 December 2024, Sunday"
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "18.41 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "🥬 Groceries"
+    },
+    {
+     "type": "plain",
+     "text": "\n22 December 2024, Sunday"
+    }
+   ]
+  },
+  {
+   "id": 22515,
+   "type": "message",
+   "date": "2024-12-27T12:14:03",
+   "date_unixtime": "1735301643",
+   "from": "Qx Zero",
+   "from_id": "user5688807590",
+   "text": "42.75",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "42.75"
+    }
+   ]
+  },
+  {
+   "id": 22516,
+   "type": "message",
+   "date": "2024-12-27T12:14:04",
+   "date_unixtime": "1735301644",
+   "edited": "2024-12-27T12:14:28",
+   "edited_unixtime": "1735301668",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 22517,
+   "type": "message",
+   "date": "2024-12-27T12:14:28",
+   "date_unixtime": "1735301668",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Qx"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "42.75 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "🥩肉铺"
+    },
+    "\n27 December 2024, Friday"
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Qx"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "42.75 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "🥩肉铺"
+    },
+    {
+     "type": "plain",
+     "text": "\n27 December 2024, Friday"
+    }
+   ]
+  },
+  {
+   "id": 22518,
+   "type": "message",
+   "date": "2024-12-27T12:15:04",
+   "date_unixtime": "1735301704",
+   "from": "Qx Zero",
+   "from_id": "user5688807590",
+   "text": "13.63",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "13.63"
+    }
+   ]
+  },
+  {
+   "id": 22519,
+   "type": "message",
+   "date": "2024-12-27T12:15:04",
+   "date_unixtime": "1735301704",
+   "edited": "2024-12-27T12:15:07",
+   "edited_unixtime": "1735301707",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 22520,
+   "type": "message",
+   "date": "2024-12-27T12:15:07",
+   "date_unixtime": "1735301707",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Qx"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "13.63 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "超市"
+    },
+    "\n27 December 2024, Friday"
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Qx"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "13.63 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "超市"
+    },
+    {
+     "type": "plain",
+     "text": "\n27 December 2024, Friday"
+    }
+   ]
+  },
+  {
+   "id": 22534,
+   "type": "message",
+   "date": "2024-12-30T18:17:58",
+   "date_unixtime": "1735582678",
+   "from": "RoundFace Dublin",
+   "from_id": "user1321217499",
+   "text": "65.6",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "65.6"
+    }
+   ]
+  },
+  {
+   "id": 22535,
+   "type": "message",
+   "date": "2024-12-30T18:17:59",
+   "date_unixtime": "1735582679",
+   "edited": "2024-12-30T19:47:19",
+   "edited_unixtime": "1735588039",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 22543,
+   "type": "message",
+   "date": "2024-12-30T19:47:19",
+   "date_unixtime": "1735588039",
+   "edited": "2024-12-30T19:47:42",
+   "edited_unixtime": "1735588062",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 22544,
+   "type": "message",
+   "date": "2024-12-30T19:47:42",
+   "date_unixtime": "1735588062",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Current operation has been cancelled.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Current operation has been cancelled."
+    }
+   ]
+  },
+  {
+   "id": 22545,
+   "type": "message",
+   "date": "2024-12-30T19:47:49",
+   "date_unixtime": "1735588069",
+   "from": "RoundFace Dublin",
+   "from_id": "user1321217499",
+   "text": "65.6",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "65.6"
+    }
+   ]
+  },
+  {
+   "id": 22546,
+   "type": "message",
+   "date": "2024-12-30T19:47:49",
+   "date_unixtime": "1735588069",
+   "edited": "2024-12-30T19:47:53",
+   "edited_unixtime": "1735588073",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 22547,
+   "type": "message",
+   "date": "2024-12-30T19:47:53",
+   "date_unixtime": "1735588073",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "65.6 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "🥬 Groceries"
+    },
+    "\n30 December 2024, Monday"
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "65.6 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "🥬 Groceries"
+    },
+    {
+     "type": "plain",
+     "text": "\n30 December 2024, Monday"
+    }
+   ]
+  },
+  {
+   "id": 22550,
+   "type": "message",
+   "date": "2024-12-31T13:59:35",
+   "date_unixtime": "1735653575",
+   "from": "Qx Zero",
+   "from_id": "user5688807590",
+   "text": "21.9",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "21.9"
+    }
+   ]
+  },
+  {
+   "id": 22551,
+   "type": "message",
+   "date": "2024-12-31T13:59:35",
+   "date_unixtime": "1735653575",
+   "edited": "2024-12-31T13:59:40",
+   "edited_unixtime": "1735653580",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 22552,
+   "type": "message",
+   "date": "2024-12-31T13:59:40",
+   "date_unixtime": "1735653580",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Qx"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "21.9 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "超市"
+    },
+    "\n31 December 2024, Tuesday"
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Qx"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "21.9 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "超市"
+    },
+    {
+     "type": "plain",
+     "text": "\n31 December 2024, Tuesday"
+    }
+   ]
+  },
+  {
+   "id": 22569,
+   "type": "message",
+   "date": "2025-01-01T17:51:02",
+   "date_unixtime": "1735753862",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "📅 Monthly report (December)"
+    },
+    "\n\n👍 In the last month, you spent ",
+    {
+     "type": "bold",
+     "text": "581.94 EUR"
+    },
+    ", which is ",
+    {
+     "type": "bold",
+     "text": "591.64 EUR"
+    },
+    " (50.41%) less compared to the previous month.\n\nYou didn't record any income.\n\n👎 Total balance is ",
+    {
+     "type": "bold",
+     "text": "-581.94 EUR"
+    },
+    ".\n\nOn average, you spent ",
+    {
+     "type": "bold",
+     "text": "18.77 EUR"
+    },
+    " a day.\nOn average, you earned ",
+    {
+     "type": "bold",
+     "text": "0 EUR"
+    },
+    " a day.\n\n",
+    {
+     "type": "italic",
+     "text": "More detailed statistics split by categories is available after sending "
+    },
+    {
+     "type": "bot_command",
+     "text": "/stats"
+    },
+    {
+     "type": "italic",
+     "text": "."
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "📅 Monthly report (December)"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n👍 In the last month, you spent "
+    },
+    {
+     "type": "bold",
+     "text": "581.94 EUR"
+    },
+    {
+     "type": "plain",
+     "text": ", which is "
+    },
+    {
+     "type": "bold",
+     "text": "591.64 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " (50.41%) less compared to the previous month.\n\nYou didn't record any income.\n\n👎 Total balance is "
+    },
+    {
+     "type": "bold",
+     "text": "-581.94 EUR"
+    },
+    {
+     "type": "plain",
+     "text": ".\n\nOn average, you spent "
+    },
+    {
+     "type": "bold",
+     "text": "18.77 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " a day.\nOn average, you earned "
+    },
+    {
+     "type": "bold",
+     "text": "0 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " a day.\n\n"
+    },
+    {
+     "type": "italic",
+     "text": "More detailed statistics split by categories is available after sending "
+    },
+    {
+     "type": "bot_command",
+     "text": "/stats"
+    },
+    {
+     "type": "italic",
+     "text": "."
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 22570,
+   "type": "message",
+   "date": "2025-01-02T15:07:59",
+   "date_unixtime": "1735830479",
+   "from": "RoundFace Dublin",
+   "from_id": "user1321217499",
+   "text": "25",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "25"
+    }
+   ]
+  },
+  {
+   "id": 22571,
+   "type": "message",
+   "date": "2025-01-02T15:08:00",
+   "date_unixtime": "1735830480",
+   "edited": "2025-01-02T15:08:02",
+   "edited_unixtime": "1735830482",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 22572,
+   "type": "message",
+   "date": "2025-01-02T15:08:02",
+   "date_unixtime": "1735830482",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "25 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "🥩肉铺"
+    },
+    "\n2 January 2025, Thursday"
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "25 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "🥩肉铺"
+    },
+    {
+     "type": "plain",
+     "text": "\n2 January 2025, Thursday"
+    }
+   ]
+  },
+  {
+   "id": 22573,
+   "type": "message",
+   "date": "2025-01-02T17:01:00",
+   "date_unixtime": "1735837260",
+   "from": "RoundFace Dublin",
+   "from_id": "user1321217499",
+   "text": "24.38",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "24.38"
+    }
+   ]
+  },
+  {
+   "id": 22574,
+   "type": "message",
+   "date": "2025-01-02T17:01:01",
+   "date_unixtime": "1735837261",
+   "edited": "2025-01-02T17:01:03",
+   "edited_unixtime": "1735837263",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 22575,
+   "type": "message",
+   "date": "2025-01-02T17:01:03",
+   "date_unixtime": "1735837263",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "24.38 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "超市"
+    },
+    "\n2 January 2025, Thursday"
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "24.38 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "超市"
+    },
+    {
+     "type": "plain",
+     "text": "\n2 January 2025, Thursday"
+    }
+   ]
+  },
+  {
+   "id": 22576,
+   "type": "message",
+   "date": "2025-01-03T13:24:42",
+   "date_unixtime": "1735910682",
+   "from": "RoundFace Dublin",
+   "from_id": "user1321217499",
+   "text": "20",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "20"
+    }
+   ]
+  },
+  {
+   "id": 22577,
+   "type": "message",
+   "date": "2025-01-03T13:24:42",
+   "date_unixtime": "1735910682",
+   "edited": "2025-01-03T13:24:44",
+   "edited_unixtime": "1735910684",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 22578,
+   "type": "message",
+   "date": "2025-01-03T13:24:44",
+   "date_unixtime": "1735910684",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "20 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "🥩肉铺"
+    },
+    "\n3 January 2025, Friday"
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "20 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "🥩肉铺"
+    },
+    {
+     "type": "plain",
+     "text": "\n3 January 2025, Friday"
+    }
+   ]
+  },
+  {
+   "id": 22583,
+   "type": "message",
+   "date": "2025-01-05T19:01:14",
+   "date_unixtime": "1736103674",
+   "from": "Qx Zero",
+   "from_id": "user5688807590",
+   "text": "27.38",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "27.38"
+    }
+   ]
+  },
+  {
+   "id": 22584,
+   "type": "message",
+   "date": "2025-01-05T19:01:15",
+   "date_unixtime": "1736103675",
+   "edited": "2025-01-05T19:01:17",
+   "edited_unixtime": "1736103677",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 22585,
+   "type": "message",
+   "date": "2025-01-05T19:01:17",
+   "date_unixtime": "1736103677",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Qx"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "27.38 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "超市"
+    },
+    "\n5 January 2025, Sunday"
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Qx"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "27.38 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "超市"
+    },
+    {
+     "type": "plain",
+     "text": "\n5 January 2025, Sunday"
+    }
+   ]
+  },
+  {
+   "id": 22757,
+   "type": "message",
+   "date": "2025-01-08T16:09:54",
+   "date_unixtime": "1736352594",
+   "from": "Qx Zero",
+   "from_id": "user5688807590",
+   "text": "11.69",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "11.69"
+    }
+   ]
+  },
+  {
+   "id": 22758,
+   "type": "message",
+   "date": "2025-01-08T16:09:55",
+   "date_unixtime": "1736352595",
+   "edited": "2025-01-08T16:09:57",
+   "edited_unixtime": "1736352597",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 22759,
+   "type": "message",
+   "date": "2025-01-08T16:09:57",
+   "date_unixtime": "1736352597",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Qx"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "11.69 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "超市"
+    },
+    "\n8 January 2025, Wednesday"
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Qx"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "11.69 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "超市"
+    },
+    {
+     "type": "plain",
+     "text": "\n8 January 2025, Wednesday"
+    }
+   ]
+  },
+  {
+   "id": 22760,
+   "type": "message",
+   "date": "2025-01-08T16:22:54",
+   "date_unixtime": "1736353374",
+   "from": "RoundFace Dublin",
+   "from_id": "user1321217499",
+   "text": "65.3",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "65.3"
+    }
+   ]
+  },
+  {
+   "id": 22761,
+   "type": "message",
+   "date": "2025-01-08T16:22:55",
+   "date_unixtime": "1736353375",
+   "edited": "2025-01-08T16:23:03",
+   "edited_unixtime": "1736353383",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 22762,
+   "type": "message",
+   "date": "2025-01-08T16:23:03",
+   "date_unixtime": "1736353383",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "65.3 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "🥬 Groceries"
+    },
+    "\n8 January 2025, Wednesday"
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "65.3 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "🥬 Groceries"
+    },
+    {
+     "type": "plain",
+     "text": "\n8 January 2025, Wednesday"
+    }
+   ]
+  },
+  {
+   "id": 22795,
+   "type": "message",
+   "date": "2025-01-10T08:37:46",
+   "date_unixtime": "1736498266",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    "Hello! From now on, I’ll keep you updated on your income and expense balance throughout the month and calculate an approximate daily budget for the remaining days. This should help you better track your spending habits daily, not just at the end of the month.\n\nPremium subscribers can set a desired monthly budget, and the remaining balance will be calculated based on it. You can set your budget in the mini-app settings (",
+    {
+     "type": "bot_command",
+     "text": "/settings"
+    },
+    ") or by using the ",
+    {
+     "type": "bot_command",
+     "text": "/budget"
+    },
+    " command."
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Hello! From now on, I’ll keep you updated on your income and expense balance throughout the month and calculate an approximate daily budget for the remaining days. This should help you better track your spending habits daily, not just at the end of the month.\n\nPremium subscribers can set a desired monthly budget, and the remaining balance will be calculated based on it. You can set your budget in the mini-app settings ("
+    },
+    {
+     "type": "bot_command",
+     "text": "/settings"
+    },
+    {
+     "type": "plain",
+     "text": ") or by using the "
+    },
+    {
+     "type": "bot_command",
+     "text": "/budget"
+    },
+    {
+     "type": "plain",
+     "text": " command."
+    }
+   ]
+  },
+  {
+   "id": 22796,
+   "type": "message",
+   "date": "2025-01-10T19:52:04",
+   "date_unixtime": "1736538724",
+   "from": "RoundFace Dublin",
+   "from_id": "user1321217499",
+   "text": "40",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "40"
+    }
+   ]
+  },
+  {
+   "id": 22797,
+   "type": "message",
+   "date": "2025-01-10T19:52:05",
+   "date_unixtime": "1736538725",
+   "edited": "2025-01-10T19:52:07",
+   "edited_unixtime": "1736538727",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 22798,
+   "type": "message",
+   "date": "2025-01-10T19:52:07",
+   "date_unixtime": "1736538727",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "40 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "🥩肉铺"
+    },
+    "\n10 January 2025, Friday\n\n",
+    {
+     "type": "italic",
+     "text": "⚠️ Negative monthly balance (-213.75 EUR)"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "40 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "🥩肉铺"
+    },
+    {
+     "type": "plain",
+     "text": "\n10 January 2025, Friday\n\n"
+    },
+    {
+     "type": "italic",
+     "text": "⚠️ Negative monthly balance (-213.75 EUR)"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 23031,
+   "type": "message",
+   "date": "2025-01-14T16:35:58",
+   "date_unixtime": "1736872558",
+   "from": "RoundFace Dublin",
+   "from_id": "user1321217499",
+   "text": "25.47",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "25.47"
+    }
+   ]
+  },
+  {
+   "id": 23032,
+   "type": "message",
+   "date": "2025-01-14T16:35:59",
+   "date_unixtime": "1736872559",
+   "edited": "2025-01-14T16:36:03",
+   "edited_unixtime": "1736872563",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 23033,
+   "type": "message",
+   "date": "2025-01-14T16:36:03",
+   "date_unixtime": "1736872563",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "25.47 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "🥬 Groceries"
+    },
+    "\n14 January 2025, Tuesday\n\n",
+    {
+     "type": "italic",
+     "text": "⚠️ Negative monthly balance (-239.22 EUR)"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "25.47 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "🥬 Groceries"
+    },
+    {
+     "type": "plain",
+     "text": "\n14 January 2025, Tuesday\n\n"
+    },
+    {
+     "type": "italic",
+     "text": "⚠️ Negative monthly balance (-239.22 EUR)"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 23059,
+   "type": "message",
+   "date": "2025-01-19T10:57:29",
+   "date_unixtime": "1737284249",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Hey! Now I can determine the category of an expense automatically using AI! 🧠 This feature is live and available to all users without any limits. If unsure, I’ll ask you for the category, just like before. If I assign the wrong category, you can always change it.\n\nTo improve the accuracy of automatic categorization, I recommend giving your categories clear names. 😉",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Hey! Now I can determine the category of an expense automatically using AI! 🧠 This feature is live and available to all users without any limits. If unsure, I’ll ask you for the category, just like before. If I assign the wrong category, you can always change it.\n\nTo improve the accuracy of automatic categorization, I recommend giving your categories clear names. 😉"
+    }
+   ]
+  },
+  {
+   "id": 23060,
+   "type": "message",
+   "date": "2025-01-19T15:54:29",
+   "date_unixtime": "1737302069",
+   "from": "RoundFace Dublin",
+   "from_id": "user1321217499",
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/stats@cointrybot"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bot_command",
+     "text": "/stats@cointrybot"
+    }
+   ]
+  },
+  {
+   "id": 23061,
+   "type": "message",
+   "date": "2025-01-19T15:54:30",
+   "date_unixtime": "1737302070",
+   "edited": "2025-01-19T15:54:32",
+   "edited_unixtime": "1737302072",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Choose a period",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Choose a period"
+    }
+   ]
+  },
+  {
+   "id": 23062,
+   "type": "message",
+   "date": "2025-01-19T15:54:32",
+   "date_unixtime": "1737302072",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    "Statistics for last month (December) in EUR\n\n",
+    {
+     "type": "bold",
+     "text": "➖ Expenses"
+    },
+    "\n\n",
+    {
+     "type": "code",
+     "text": "224.67 (39%)"
+    },
+    " — 🥬 Groceries\n",
+    {
+     "type": "code",
+     "text": "159.75 (27%)"
+    },
+    " — 🥩肉铺\n",
+    {
+     "type": "code",
+     "text": "152.97 (26%)"
+    },
+    " — 超市\n",
+    {
+     "type": "code",
+     "text": "33.48 (6%)"
+    },
+    " — TEMU\n",
+    {
+     "type": "code",
+     "text": "11.07 (2%)"
+    },
+    " — 🪜 Household\n\n👤 椭脸 — ",
+    {
+     "type": "code",
+     "text": "386.22 (66%)"
+    },
+    "\n👤 Qx — ",
+    {
+     "type": "code",
+     "text": "195.72 (34%)"
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "➕ Income"
+    },
+    "\n\nNo income for last month (December).\n\nTotal expenses: ",
+    {
+     "type": "bold",
+     "text": "581.94 EUR"
+    },
+    "\nTotal income: ",
+    {
+     "type": "bold",
+     "text": "0 EUR"
+    },
+    "\nTotal: ",
+    {
+     "type": "bold",
+     "text": "-581.94 EUR"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Statistics for last month (December) in EUR\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "➖ Expenses"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "code",
+     "text": "224.67 (39%)"
+    },
+    {
+     "type": "plain",
+     "text": " — 🥬 Groceries\n"
+    },
+    {
+     "type": "code",
+     "text": "159.75 (27%)"
+    },
+    {
+     "type": "plain",
+     "text": " — 🥩肉铺\n"
+    },
+    {
+     "type": "code",
+     "text": "152.97 (26%)"
+    },
+    {
+     "type": "plain",
+     "text": " — 超市\n"
+    },
+    {
+     "type": "code",
+     "text": "33.48 (6%)"
+    },
+    {
+     "type": "plain",
+     "text": " — TEMU\n"
+    },
+    {
+     "type": "code",
+     "text": "11.07 (2%)"
+    },
+    {
+     "type": "plain",
+     "text": " — 🪜 Household\n\n👤 椭脸 — "
+    },
+    {
+     "type": "code",
+     "text": "386.22 (66%)"
+    },
+    {
+     "type": "plain",
+     "text": "\n👤 Qx — "
+    },
+    {
+     "type": "code",
+     "text": "195.72 (34%)"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "➕ Income"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nNo income for last month (December).\n\nTotal expenses: "
+    },
+    {
+     "type": "bold",
+     "text": "581.94 EUR"
+    },
+    {
+     "type": "plain",
+     "text": "\nTotal income: "
+    },
+    {
+     "type": "bold",
+     "text": "0 EUR"
+    },
+    {
+     "type": "plain",
+     "text": "\nTotal: "
+    },
+    {
+     "type": "bold",
+     "text": "-581.94 EUR"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 23063,
+   "type": "message",
+   "date": "2025-01-19T15:55:13",
+   "date_unixtime": "1737302113",
+   "from": "RoundFace Dublin",
+   "from_id": "user1321217499",
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/stats@cointrybot"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bot_command",
+     "text": "/stats@cointrybot"
+    }
+   ]
+  },
+  {
+   "id": 23064,
+   "type": "message",
+   "date": "2025-01-19T15:55:14",
+   "date_unixtime": "1737302114",
+   "edited": "2025-01-19T15:55:16",
+   "edited_unixtime": "1737302116",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Choose a period",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Choose a period"
+    }
+   ]
+  },
+  {
+   "id": 23065,
+   "type": "message",
+   "date": "2025-01-19T15:55:16",
+   "date_unixtime": "1737302116",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    "Statistics for current month (January) in EUR\n\n",
+    {
+     "type": "bold",
+     "text": "➖ Expenses"
+    },
+    "\n\n",
+    {
+     "type": "code",
+     "text": "90.77 (38%)"
+    },
+    " — 🥬 Groceries\n",
+    {
+     "type": "code",
+     "text": "85 (36%)"
+    },
+    " — 🥩肉铺\n",
+    {
+     "type": "code",
+     "text": "63.45 (27%)"
+    },
+    " — 超市\n\n👤 椭脸 — ",
+    {
+     "type": "code",
+     "text": "200.15 (84%)"
+    },
+    "\n👤 Qx — ",
+    {
+     "type": "code",
+     "text": "39.07 (16%)"
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "➕ Income"
+    },
+    "\n\nNo income for current month (January).\n\nTotal expenses: ",
+    {
+     "type": "bold",
+     "text": "239.22 EUR"
+    },
+    "\nTotal income: ",
+    {
+     "type": "bold",
+     "text": "0 EUR"
+    },
+    "\nTotal: ",
+    {
+     "type": "bold",
+     "text": "-239.22 EUR"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Statistics for current month (January) in EUR\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "➖ Expenses"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "code",
+     "text": "90.77 (38%)"
+    },
+    {
+     "type": "plain",
+     "text": " — 🥬 Groceries\n"
+    },
+    {
+     "type": "code",
+     "text": "85 (36%)"
+    },
+    {
+     "type": "plain",
+     "text": " — 🥩肉铺\n"
+    },
+    {
+     "type": "code",
+     "text": "63.45 (27%)"
+    },
+    {
+     "type": "plain",
+     "text": " — 超市\n\n👤 椭脸 — "
+    },
+    {
+     "type": "code",
+     "text": "200.15 (84%)"
+    },
+    {
+     "type": "plain",
+     "text": "\n👤 Qx — "
+    },
+    {
+     "type": "code",
+     "text": "39.07 (16%)"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "➕ Income"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nNo income for current month (January).\n\nTotal expenses: "
+    },
+    {
+     "type": "bold",
+     "text": "239.22 EUR"
+    },
+    {
+     "type": "plain",
+     "text": "\nTotal income: "
+    },
+    {
+     "type": "bold",
+     "text": "0 EUR"
+    },
+    {
+     "type": "plain",
+     "text": "\nTotal: "
+    },
+    {
+     "type": "bold",
+     "text": "-239.22 EUR"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 23069,
+   "type": "message",
+   "date": "2025-01-20T17:49:33",
+   "date_unixtime": "1737395373",
+   "from": "Qx Zero",
+   "from_id": "user5688807590",
+   "text": "26.74",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "26.74"
+    }
+   ]
+  },
+  {
+   "id": 23070,
+   "type": "message",
+   "date": "2025-01-20T17:49:34",
+   "date_unixtime": "1737395374",
+   "edited": "2025-01-20T17:49:37",
+   "edited_unixtime": "1737395377",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 23071,
+   "type": "message",
+   "date": "2025-01-20T17:49:37",
+   "date_unixtime": "1737395377",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Qx"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "26.74 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "超市"
+    },
+    "\n20 January 2025, Monday\n\n",
+    {
+     "type": "italic",
+     "text": "⚠️ Negative monthly balance (-265.96 EUR)"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Qx"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "26.74 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "超市"
+    },
+    {
+     "type": "plain",
+     "text": "\n20 January 2025, Monday\n\n"
+    },
+    {
+     "type": "italic",
+     "text": "⚠️ Negative monthly balance (-265.96 EUR)"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 23076,
+   "type": "message",
+   "date": "2025-01-22T13:21:29",
+   "date_unixtime": "1737552089",
+   "from": "RoundFace Dublin",
+   "from_id": "user1321217499",
+   "text": "39",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "39"
+    }
+   ]
+  },
+  {
+   "id": 23077,
+   "type": "message",
+   "date": "2025-01-22T13:21:30",
+   "date_unixtime": "1737552090",
+   "edited": "2025-01-22T13:21:31",
+   "edited_unixtime": "1737552091",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Which category is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Which category is it?"
+    }
+   ]
+  },
+  {
+   "id": 23078,
+   "type": "message",
+   "date": "2025-01-22T13:21:31",
+   "date_unixtime": "1737552091",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    " spent ",
+    {
+     "type": "bold",
+     "text": "39 EUR"
+    },
+    " on ",
+    {
+     "type": "bold",
+     "text": "🥩肉铺"
+    },
+    "\n22 January 2025, Wednesday\n\n",
+    {
+     "type": "italic",
+     "text": "⚠️ Negative monthly balance (-304.96 EUR)"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "椭脸"
+    },
+    {
+     "type": "plain",
+     "text": " spent "
+    },
+    {
+     "type": "bold",
+     "text": "39 EUR"
+    },
+    {
+     "type": "plain",
+     "text": " on "
+    },
+    {
+     "type": "bold",
+     "text": "🥩肉铺"
+    },
+    {
+     "type": "plain",
+     "text": "\n22 January 2025, Wednesday\n\n"
+    },
+    {
+     "type": "italic",
+     "text": "⚠️ Negative monthly balance (-304.96 EUR)"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 23079,
+   "type": "message",
+   "date": "2025-01-22T21:08:46",
+   "date_unixtime": "1737580126",
+   "from": "RoundFace Dublin",
+   "from_id": "user1321217499",
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/stats@cointrybot"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bot_command",
+     "text": "/stats@cointrybot"
+    }
+   ]
+  },
+  {
+   "id": 23080,
+   "type": "message",
+   "date": "2025-01-22T21:08:47",
+   "date_unixtime": "1737580127",
+   "edited": "2025-01-22T21:08:53",
+   "edited_unixtime": "1737580133",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Choose a period",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Choose a period"
+    }
+   ]
+  },
+  {
+   "id": 23081,
+   "type": "message",
+   "date": "2025-01-22T21:08:53",
+   "date_unixtime": "1737580133",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    "Statistics for current month (January) in EUR\n\n",
+    {
+     "type": "bold",
+     "text": "➖ Expenses"
+    },
+    "\n\n",
+    {
+     "type": "code",
+     "text": "124 (41%)"
+    },
+    " — 🥩肉铺\n",
+    {
+     "type": "code",
+     "text": "90.77 (30%)"
+    },
+    " — 🥬 Groceries\n",
+    {
+     "type": "code",
+     "text": "90.19 (30%)"
+    },
+    " — 超市\n\n👤 椭脸 — ",
+    {
+     "type": "code",
+     "text": "239.15 (78%)"
+    },
+    "\n👤 Qx — ",
+    {
+     "type": "code",
+     "text": "65.81 (22%)"
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "➕ Income"
+    },
+    "\n\nNo income for current month (January).\n\nTotal expenses: ",
+    {
+     "type": "bold",
+     "text": "304.96 EUR"
+    },
+    "\nTotal income: ",
+    {
+     "type": "bold",
+     "text": "0 EUR"
+    },
+    "\nTotal: ",
+    {
+     "type": "bold",
+     "text": "-304.96 EUR"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Statistics for current month (January) in EUR\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "➖ Expenses"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "code",
+     "text": "124 (41%)"
+    },
+    {
+     "type": "plain",
+     "text": " — 🥩肉铺\n"
+    },
+    {
+     "type": "code",
+     "text": "90.77 (30%)"
+    },
+    {
+     "type": "plain",
+     "text": " — 🥬 Groceries\n"
+    },
+    {
+     "type": "code",
+     "text": "90.19 (30%)"
+    },
+    {
+     "type": "plain",
+     "text": " — 超市\n\n👤 椭脸 — "
+    },
+    {
+     "type": "code",
+     "text": "239.15 (78%)"
+    },
+    {
+     "type": "plain",
+     "text": "\n👤 Qx — "
+    },
+    {
+     "type": "code",
+     "text": "65.81 (22%)"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "➕ Income"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nNo income for current month (January).\n\nTotal expenses: "
+    },
+    {
+     "type": "bold",
+     "text": "304.96 EUR"
+    },
+    {
+     "type": "plain",
+     "text": "\nTotal income: "
+    },
+    {
+     "type": "bold",
+     "text": "0 EUR"
+    },
+    {
+     "type": "plain",
+     "text": "\nTotal: "
+    },
+    {
+     "type": "bold",
+     "text": "-304.96 EUR"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 23082,
+   "type": "message",
+   "date": "2025-01-22T21:08:58",
+   "date_unixtime": "1737580138",
+   "from": "RoundFace Dublin",
+   "from_id": "user1321217499",
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/stats@cointrybot"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bot_command",
+     "text": "/stats@cointrybot"
+    }
+   ]
+  },
+  {
+   "id": 23083,
+   "type": "message",
+   "date": "2025-01-22T21:08:58",
+   "date_unixtime": "1737580138",
+   "edited": "2025-01-22T21:09:00",
+   "edited_unixtime": "1737580140",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Choose a period",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Choose a period"
+    }
+   ]
+  },
+  {
+   "id": 23084,
+   "type": "message",
+   "date": "2025-01-22T21:09:00",
+   "date_unixtime": "1737580140",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    "Statistics for last month (December) in EUR\n\n",
+    {
+     "type": "bold",
+     "text": "➖ Expenses"
+    },
+    "\n\n",
+    {
+     "type": "code",
+     "text": "224.67 (39%)"
+    },
+    " — 🥬 Groceries\n",
+    {
+     "type": "code",
+     "text": "159.75 (27%)"
+    },
+    " — 🥩肉铺\n",
+    {
+     "type": "code",
+     "text": "152.97 (26%)"
+    },
+    " — 超市\n",
+    {
+     "type": "code",
+     "text": "33.48 (6%)"
+    },
+    " — TEMU\n",
+    {
+     "type": "code",
+     "text": "11.07 (2%)"
+    },
+    " — 🪜 Household\n\n👤 椭脸 — ",
+    {
+     "type": "code",
+     "text": "386.22 (66%)"
+    },
+    "\n👤 Qx — ",
+    {
+     "type": "code",
+     "text": "195.72 (34%)"
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "➕ Income"
+    },
+    "\n\nNo income for last month (December).\n\nTotal expenses: ",
+    {
+     "type": "bold",
+     "text": "581.94 EUR"
+    },
+    "\nTotal income: ",
+    {
+     "type": "bold",
+     "text": "0 EUR"
+    },
+    "\nTotal: ",
+    {
+     "type": "bold",
+     "text": "-581.94 EUR"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Statistics for last month (December) in EUR\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "➖ Expenses"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "code",
+     "text": "224.67 (39%)"
+    },
+    {
+     "type": "plain",
+     "text": " — 🥬 Groceries\n"
+    },
+    {
+     "type": "code",
+     "text": "159.75 (27%)"
+    },
+    {
+     "type": "plain",
+     "text": " — 🥩肉铺\n"
+    },
+    {
+     "type": "code",
+     "text": "152.97 (26%)"
+    },
+    {
+     "type": "plain",
+     "text": " — 超市\n"
+    },
+    {
+     "type": "code",
+     "text": "33.48 (6%)"
+    },
+    {
+     "type": "plain",
+     "text": " — TEMU\n"
+    },
+    {
+     "type": "code",
+     "text": "11.07 (2%)"
+    },
+    {
+     "type": "plain",
+     "text": " — 🪜 Household\n\n👤 椭脸 — "
+    },
+    {
+     "type": "code",
+     "text": "386.22 (66%)"
+    },
+    {
+     "type": "plain",
+     "text": "\n👤 Qx — "
+    },
+    {
+     "type": "code",
+     "text": "195.72 (34%)"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "➕ Income"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nNo income for last month (December).\n\nTotal expenses: "
+    },
+    {
+     "type": "bold",
+     "text": "581.94 EUR"
+    },
+    {
+     "type": "plain",
+     "text": "\nTotal income: "
+    },
+    {
+     "type": "bold",
+     "text": "0 EUR"
+    },
+    {
+     "type": "plain",
+     "text": "\nTotal: "
+    },
+    {
+     "type": "bold",
+     "text": "-581.94 EUR"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 23085,
+   "type": "message",
+   "date": "2025-01-22T21:09:02",
+   "date_unixtime": "1737580142",
+   "from": "RoundFace Dublin",
+   "from_id": "user1321217499",
+   "text": [
+    {
+     "type": "bot_command",
+     "text": "/stats@cointrybot"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "bot_command",
+     "text": "/stats@cointrybot"
+    }
+   ]
+  },
+  {
+   "id": 23086,
+   "type": "message",
+   "date": "2025-01-22T21:09:02",
+   "date_unixtime": "1737580142",
+   "edited": "2025-01-22T21:09:06",
+   "edited_unixtime": "1737580146",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": "Choose a period",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Choose a period"
+    }
+   ]
+  },
+  {
+   "id": 23087,
+   "type": "message",
+   "date": "2025-01-22T21:09:05",
+   "date_unixtime": "1737580145",
+   "from": "Cointry",
+   "from_id": "user1437371466",
+   "text": [
+    "Statistics for last 12 months in EUR\n\n📅 ",
+    {
+     "type": "bold",
+     "text": "October 2024"
+    },
+    "\nExpenses: ",
+    {
+     "type": "code",
+     "text": "154.42"
+    },
+    "\nIncome: ",
+    {
+     "type": "code",
+     "text": "0"
+    },
+    "\nTotal: ",
+    {
+     "type": "code",
+     "text": "-154.42"
+    },
+    "\n\n📅 ",
+    {
+     "type": "bold",
+     "text": "November 2024"
+    },
+    "\nExpenses: ",
+    {
+     "type": "code",
+     "text": "1,173.58"
+    },
+    "\nIncome: ",
+    {
+     "type": "code",
+     "text": "0"
+    },
+    "\nTotal: ",
+    {
+     "type": "code",
+     "text": "-1,173.58"
+    },
+    "\n\n📅 ",
+    {
+     "type": "bold",
+     "text": "December 2024"
+    },
+    "\nExpenses: ",
+    {
+     "type": "code",
+     "text": "581.94"
+    },
+    "\nIncome: ",
+    {
+     "type": "code",
+     "text": "0"
+    },
+    "\nTotal: ",
+    {
+     "type": "code",
+     "text": "-581.94"
+    },
+    "\n\n📅 ",
+    {
+     "type": "bold",
+     "text": "January 2025"
+    },
+    "\nExpenses: ",
+    {
+     "type": "code",
+     "text": "304.96"
+    },
+    "\nIncome: ",
+    {
+     "type": "code",
+     "text": "0"
+    },
+    "\nTotal: ",
+    {
+     "type": "code",
+     "text": "-304.96"
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "➖ Expenses"
+    },
+    "\n",
+    {
+     "type": "code",
+     "text": "Oct ▄▄▄"
+    },
+    "\n",
+    {
+     "type": "code",
+     "text": "Nov ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄"
+    },
+    "\n",
+    {
+     "type": "code",
+     "text": "Dec ▄▄▄▄▄▄▄▄▄▄▄"
+    },
+    "\n",
+    {
+     "type": "code",
+     "text": "Jan ▄▄▄▄▄▄"
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "➕ Income"
+    },
+    "\n",
+    {
+     "type": "code",
+     "text": "Oct "
+    },
+    "\n",
+    {
+     "type": "code",
+     "text": "Nov "
+    },
+    "\n",
+    {
+     "type": "code",
+     "text": "Dec "
+    },
+    "\n",
+    {
+     "type": "code",
+     "text": "Jan "
+    },
+    "\n\nTotal expenses: ",
+    {
+     "type": "bold",
+     "text": "2,214.9 EUR"
+    },
+    "\nTotal income: ",
+    {
+     "type": "bold",
+     "text": "0 EUR"
+    },
+    "\nTotal: ",
+    {
+     "type": "bold",
+     "text": "-2,214.9 EUR"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Statistics for last 12 months in EUR\n\n📅 "
+    },
+    {
+     "type": "bold",
+     "text": "October 2024"
+    },
+    {
+     "type": "plain",
+     "text": "\nExpenses: "
+    },
+    {
+     "type": "code",
+     "text": "154.42"
+    },
+    {
+     "type": "plain",
+     "text": "\nIncome: "
+    },
+    {
+     "type": "code",
+     "text": "0"
+    },
+    {
+     "type": "plain",
+     "text": "\nTotal: "
+    },
+    {
+     "type": "code",
+     "text": "-154.42"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n📅 "
+    },
+    {
+     "type": "bold",
+     "text": "November 2024"
+    },
+    {
+     "type": "plain",
+     "text": "\nExpenses: "
+    },
+    {
+     "type": "code",
+     "text": "1,173.58"
+    },
+    {
+     "type": "plain",
+     "text": "\nIncome: "
+    },
+    {
+     "type": "code",
+     "text": "0"
+    },
+    {
+     "type": "plain",
+     "text": "\nTotal: "
+    },
+    {
+     "type": "code",
+     "text": "-1,173.58"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n📅 "
+    },
+    {
+     "type": "bold",
+     "text": "December 2024"
+    },
+    {
+     "type": "plain",
+     "text": "\nExpenses: "
+    },
+    {
+     "type": "code",
+     "text": "581.94"
+    },
+    {
+     "type": "plain",
+     "text": "\nIncome: "
+    },
+    {
+     "type": "code",
+     "text": "0"
+    },
+    {
+     "type": "plain",
+     "text": "\nTotal: "
+    },
+    {
+     "type": "code",
+     "text": "-581.94"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n📅 "
+    },
+    {
+     "type": "bold",
+     "text": "January 2025"
+    },
+    {
+     "type": "plain",
+     "text": "\nExpenses: "
+    },
+    {
+     "type": "code",
+     "text": "304.96"
+    },
+    {
+     "type": "plain",
+     "text": "\nIncome: "
+    },
+    {
+     "type": "code",
+     "text": "0"
+    },
+    {
+     "type": "plain",
+     "text": "\nTotal: "
+    },
+    {
+     "type": "code",
+     "text": "-304.96"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "➖ Expenses"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "code",
+     "text": "Oct ▄▄▄"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "code",
+     "text": "Nov ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "code",
+     "text": "Dec ▄▄▄▄▄▄▄▄▄▄▄"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "code",
+     "text": "Jan ▄▄▄▄▄▄"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "➕ Income"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "code",
+     "text": "Oct "
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "code",
+     "text": "Nov "
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "code",
+     "text": "Dec "
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "code",
+     "text": "Jan "
+    },
+    {
+     "type": "plain",
+     "text": "\n\nTotal expenses: "
+    },
+    {
+     "type": "bold",
+     "text": "2,214.9 EUR"
+    },
+    {
+     "type": "plain",
+     "text": "\nTotal income: "
+    },
+    {
+     "type": "bold",
+     "text": "0 EUR"
+    },
+    {
+     "type": "plain",
+     "text": "\nTotal: "
+    },
+    {
+     "type": "bold",
+     "text": "-2,214.9 EUR"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  }
+ ]
+}
